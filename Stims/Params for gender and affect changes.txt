@@ -1,0 +1,22 @@
+From LMM21:
+"Finally, to generate a set of male-spoken tokens, the finalized female tokens were passed through the “Change Gender” tool in Praat (Boersma & Weenik, 2017). Transformation parameters included setting the formant shift ratio to 0.8 and the new pitch median to 100 Hz. All other parameters were held at default values."
+
+Female -> Male:
+Convert-
+Change Gender...
+75.0 600.0 0.8 100.0 1.0 1.0
+
+Male -> Female:
+Convert-
+Change Gender...
+75.0 600.0 1.2 200.0 1.0 1.0
+
+Female -> Female:
+Vocal Toolkit Process-
+Change vocal tract size, pitch, and duration...
+0.8 180 90 0.0
+
+Male -> Male:
+Vocal Toolkit Process-
+Change vocal tract size, pitch, and duration...
+1.1 110 150 0.0
