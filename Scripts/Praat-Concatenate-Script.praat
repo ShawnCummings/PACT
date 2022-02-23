@@ -15,11 +15,11 @@
 
 form Concatenate sound triads from table 
       comment Give the directory of the sound files:
-      sentence soundDir 
+      sentence soundDir C:\Users\shawn\Documents\GitHub\PACT\Stims\04-Collated\
       comment Give the directory where concatenated sound files will be saved:
-      sentence saveDir 
+      sentence saveDir C:\Users\shawn\Documents\GitHub\PACT\Stims\06-Reconcatenated\
       comment Give the name of the tab-separated input text file:
-      word inputTable 
+      word inputTable C:\Users\shawn\Documents\GitHub\PACT\Stims\05-Script\
 endform  
 
 # remove any objects open in object window
