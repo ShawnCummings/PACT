@@ -1,0 +1,1780 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 28.561473922902493 
+tiers? <exists> 
+size = 4 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Token" 
+        xmin = 0 
+        xmax = 28.561473922902493 
+        intervals: size = 52 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.6940816326530612 
+            text = "f1_s_01_Arkansas" 
+        intervals [2]:
+            xmin = 0.6940816326530612 
+            xmax = 1.4243537414965988 
+            text = "f1_s_02_coliseum" 
+        intervals [3]:
+            xmin = 1.4243537414965988 
+            xmax = 2.319455782312925 
+            text = "f1_s_03_compensate" 
+        intervals [4]:
+            xmin = 2.319455782312925 
+            xmax = 3.055015117157974 
+            text = "f1_s_04_democracy" 
+        intervals [5]:
+            xmin = 3.055015117157974 
+            xmax = 3.094580498866213 
+            text = "" 
+        intervals [6]:
+            xmin = 3.094580498866213 
+            xmax = 3.6693166860240027 
+            text = "f1_s_05_dinosaur" 
+        intervals [7]:
+            xmin = 3.6693166860240027 
+            xmax = 3.71907029478458 
+            text = "" 
+        intervals [8]:
+            xmin = 3.71907029478458 
+            xmax = 4.266274994846423 
+            text = "f1_s_06_embassy" 
+        intervals [9]:
+            xmin = 4.266274994846423 
+            xmax = 4.313537414965986 
+            text = "" 
+        intervals [10]:
+            xmin = 4.313537414965986 
+            xmax = 4.977097505668934 
+            text = "f1_s_07_episode" 
+        intervals [11]:
+            xmin = 4.977097505668934 
+            xmax = 5.575036688832837 
+            text = "f1_s_08_eraser" 
+        intervals [12]:
+            xmin = 5.575036688832837 
+            xmax = 5.687414965986394 
+            text = "" 
+        intervals [13]:
+            xmin = 5.687414965986394 
+            xmax = 6.538979591836735 
+            text = "f1_s_09_hallucinate" 
+        intervals [14]:
+            xmin = 6.538979591836735 
+            xmax = 7.067118649261507 
+            text = "f1_s_10_legacy" 
+        intervals [15]:
+            xmin = 7.067118649261507 
+            xmax = 7.126235827664399 
+            text = "" 
+        intervals [16]:
+            xmin = 7.126235827664399 
+            xmax = 7.830702947845804 
+            text = "f1_s_11_literacy" 
+        intervals [17]:
+            xmin = 7.830702947845804 
+            xmax = 8.473990929705215 
+            text = "f1_s_12_medicine" 
+        intervals [18]:
+            xmin = 8.473990929705215 
+            xmax = 9.19453514739229 
+            text = "f1_s_13_obscene" 
+        intervals [19]:
+            xmin = 9.19453514739229 
+            xmax = 9.93312925170068 
+            text = "f1_s_14_parasite" 
+        intervals [20]:
+            xmin = 9.93312925170068 
+            xmax = 10.460731189445475 
+            text = "f1_s_15_peninsula" 
+        intervals [21]:
+            xmin = 10.460731189445475 
+            xmax = 10.556281179138322 
+            text = "" 
+        intervals [22]:
+            xmin = 10.556281179138322 
+            xmax = 11.109478458049887 
+            text = "f1_s_16_personal" 
+        intervals [23]:
+            xmin = 11.109478458049887 
+            xmax = 11.72078231292517 
+            text = "f1_s_17_pregnancy" 
+        intervals [24]:
+            xmin = 11.72078231292517 
+            xmax = 11.76639455782313 
+            text = "" 
+        intervals [25]:
+            xmin = 11.76639455782313 
+            xmax = 12.411964597641289 
+            text = "f1_s_18_reconcile" 
+        intervals [26]:
+            xmin = 12.411964597641289 
+            xmax = 12.549909297052155 
+            text = "" 
+        intervals [27]:
+            xmin = 12.549909297052155 
+            xmax = 13.136850340136055 
+            text = "f1_s_19_rehearsal" 
+        intervals [28]:
+            xmin = 13.136850340136055 
+            xmax = 13.173038548752835 
+            text = "" 
+        intervals [29]:
+            xmin = 13.173038548752835 
+            xmax = 13.722063492063493 
+            text = "f1_s_20_Tennessee" 
+        intervals [30]:
+            xmin = 13.722063492063493 
+            xmax = 14.441080336896663 
+            text = "f1_sh_01_ambition" 
+        intervals [31]:
+            xmin = 14.441080336896663 
+            xmax = 14.544603174603175 
+            text = "" 
+        intervals [32]:
+            xmin = 14.544603174603175 
+            xmax = 15.21640589569161 
+            text = "f1_sh_02_beneficial" 
+        intervals [33]:
+            xmin = 15.21640589569161 
+            xmax = 15.264149659863946 
+            text = "" 
+        intervals [34]:
+            xmin = 15.264149659863946 
+            xmax = 15.92014220926466 
+            text = "f1_sh_03_brochure" 
+        intervals [35]:
+            xmin = 15.92014220926466 
+            xmax = 16.00891156462585 
+            text = "" 
+        intervals [36]:
+            xmin = 16.00891156462585 
+            xmax = 16.649319727891157 
+            text = "f1_sh_04_commercial" 
+        intervals [37]:
+            xmin = 16.649319727891157 
+            xmax = 17.193174603174604 
+            text = "f1_sh_05_crucial" 
+        intervals [38]:
+            xmin = 17.193174603174604 
+            xmax = 17.951156462585036 
+            text = "f1_sh_06_efficient" 
+        intervals [39]:
+            xmin = 17.951156462585036 
+            xmax = 18.8271201814059 
+            text = "f1_sh_07_flourishing" 
+        intervals [40]:
+            xmin = 18.8271201814059 
+            xmax = 19.440204081632658 
+            text = "f1_sh_08_glacier" 
+        intervals [41]:
+            xmin = 19.440204081632658 
+            xmax = 20.284353741496602 
+            text = "f1_sh_09_graduation" 
+        intervals [42]:
+            xmin = 20.284353741496602 
+            xmax = 21.137505668934246 
+            text = "f1_sh_10_impatient" 
+        intervals [43]:
+            xmin = 21.137505668934246 
+            xmax = 21.71285714285715 
+            text = "f1_sh_11_initial" 
+        intervals [44]:
+            xmin = 21.71285714285715 
+            xmax = 22.381269841269848 
+            text = "f1_sh_12_machinery" 
+        intervals [45]:
+            xmin = 22.381269841269848 
+            xmax = 23.31222222222223 
+            text = "f1_sh_13_negotiate" 
+        intervals [46]:
+            xmin = 23.31222222222223 
+            xmax = 23.92414965986395 
+            text = "f1_sh_14_official" 
+        intervals [47]:
+            xmin = 23.92414965986395 
+            xmax = 24.771224489795923 
+            text = "f1_sh_15_parachute" 
+        intervals [48]:
+            xmin = 24.771224489795923 
+            xmax = 25.597142857142863 
+            text = "f1_sh_16_pediatrician" 
+        intervals [49]:
+            xmin = 25.597142857142863 
+            xmax = 26.249365079365084 
+            text = "f1_sh_17_publisher" 
+        intervals [50]:
+            xmin = 26.249365079365084 
+            xmax = 26.921836734693883 
+            text = "f1_sh_18_reassure" 
+        intervals [51]:
+            xmin = 26.921836734693883 
+            xmax = 27.729523809523815 
+            text = "f1_sh_19_refreshing" 
+        intervals [52]:
+            xmin = 27.729523809523815 
+            xmax = 28.561473922902493 
+            text = "f1_sh_20_vacation" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Onset" 
+        xmin = 0 
+        xmax = 28.561473922902493 
+        intervals: size = 124 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3084467120181406 
+            text = "f1_s_01_Arkansas" 
+        intervals [2]:
+            xmin = 0.3084467120181406 
+            xmax = 0.4389450798634472 
+            text = "" 
+        intervals [3]:
+            xmin = 0.4389450798634472 
+            xmax = 0.6940816326530612 
+            text = "" 
+        intervals [4]:
+            xmin = 0.6940816326530612 
+            xmax = 0.9135900877540852 
+            text = "f1_s_02_coliseum" 
+        intervals [5]:
+            xmin = 0.9135900877540852 
+            xmax = 1.0691431580531108 
+            text = "" 
+        intervals [6]:
+            xmin = 1.0691431580531108 
+            xmax = 1.4243537414965988 
+            text = "" 
+        intervals [7]:
+            xmin = 1.4243537414965988 
+            xmax = 1.7399583213567116 
+            text = "f1_s_03_compensate" 
+        intervals [8]:
+            xmin = 1.7399583213567116 
+            xmax = 2.319455782312925 
+            text = "" 
+        intervals [9]:
+            xmin = 2.319455782312925 
+            xmax = 2.7668473594888687 
+            text = "f1_s_04_democracy" 
+        intervals [10]:
+            xmin = 2.7668473594888687 
+            xmax = 3.055015117157974 
+            text = "" 
+        intervals [11]:
+            xmin = 3.055015117157974 
+            xmax = 3.094580498866213 
+            text = "" 
+        intervals [12]:
+            xmin = 3.094580498866213 
+            xmax = 3.3389685523332138 
+            text = "f1_s_05_dinosaur" 
+        intervals [13]:
+            xmin = 3.3389685523332138 
+            xmax = 3.6693166860240027 
+            text = "" 
+        intervals [14]:
+            xmin = 3.6693166860240027 
+            xmax = 3.71907029478458 
+            text = "" 
+        intervals [15]:
+            xmin = 3.71907029478458 
+            xmax = 3.9764561062520247 
+            text = "f1_s_06_embassy" 
+        intervals [16]:
+            xmin = 3.9764561062520247 
+            xmax = 4.266274994846423 
+            text = "" 
+        intervals [17]:
+            xmin = 4.266274994846423 
+            xmax = 4.313537414965986 
+            text = "" 
+        intervals [18]:
+            xmin = 4.313537414965986 
+            xmax = 4.51377345066467 
+            text = "f1_s_07_episode" 
+        intervals [19]:
+            xmin = 4.51377345066467 
+            xmax = 4.977097505668934 
+            text = "" 
+        intervals [20]:
+            xmin = 4.977097505668934 
+            xmax = 5.293709924007374 
+            text = "f1_s_08_eraser" 
+        intervals [21]:
+            xmin = 5.293709924007374 
+            xmax = 5.575036688832837 
+            text = "" 
+        intervals [22]:
+            xmin = 5.575036688832837 
+            xmax = 5.687414965986394 
+            text = "" 
+        intervals [23]:
+            xmin = 5.687414965986394 
+            xmax = 5.944316591307182 
+            text = "f1_s_09_hallucinate" 
+        intervals [24]:
+            xmin = 5.944316591307182 
+            xmax = 6.538979591836735 
+            text = "" 
+        intervals [25]:
+            xmin = 6.538979591836735 
+            xmax = 6.8389036369756235 
+            text = "f1_s_10_legacy" 
+        intervals [26]:
+            xmin = 6.8389036369756235 
+            xmax = 7.067118649261507 
+            text = "" 
+        intervals [27]:
+            xmin = 7.067118649261507 
+            xmax = 7.126235827664399 
+            text = "" 
+        intervals [28]:
+            xmin = 7.126235827664399 
+            xmax = 7.443979834357986 
+            text = "f1_s_11_literacy" 
+        intervals [29]:
+            xmin = 7.443979834357986 
+            xmax = 7.59729863373921 
+            text = "" 
+        intervals [30]:
+            xmin = 7.59729863373921 
+            xmax = 7.830702947845804 
+            text = "" 
+        intervals [31]:
+            xmin = 7.830702947845804 
+            xmax = 8.106889063317634 
+            text = "f1_s_12_medicine" 
+        intervals [32]:
+            xmin = 8.106889063317634 
+            xmax = 8.235008721437293 
+            text = "" 
+        intervals [33]:
+            xmin = 8.235008721437293 
+            xmax = 8.473990929705215 
+            text = "" 
+        intervals [34]:
+            xmin = 8.473990929705215 
+            xmax = 8.59544595616024 
+            text = "f1_s_13_obscene" 
+        intervals [35]:
+            xmin = 8.59544595616024 
+            xmax = 8.770821477115277 
+            text = "" 
+        intervals [36]:
+            xmin = 8.770821477115277 
+            xmax = 9.19453514739229 
+            text = "" 
+        intervals [37]:
+            xmin = 9.19453514739229 
+            xmax = 9.47551655827166 
+            text = "f1_s_14_parasite" 
+        intervals [38]:
+            xmin = 9.47551655827166 
+            xmax = 9.603537515301106 
+            text = "" 
+        intervals [39]:
+            xmin = 9.603537515301106 
+            xmax = 9.93312925170068 
+            text = "" 
+        intervals [40]:
+            xmin = 9.93312925170068 
+            xmax = 10.188981760820269 
+            text = "f1_s_15_peninsula" 
+        intervals [41]:
+            xmin = 10.188981760820269 
+            xmax = 10.28233250876108 
+            text = "" 
+        intervals [42]:
+            xmin = 10.28233250876108 
+            xmax = 10.460731189445475 
+            text = "" 
+        intervals [43]:
+            xmin = 10.460731189445475 
+            xmax = 10.556281179138322 
+            text = "" 
+        intervals [44]:
+            xmin = 10.556281179138322 
+            xmax = 10.712657671127058 
+            text = "f1_s_16_personal" 
+        intervals [45]:
+            xmin = 10.712657671127058 
+            xmax = 10.823552896860319 
+            text = "" 
+        intervals [46]:
+            xmin = 10.823552896860319 
+            xmax = 11.109478458049887 
+            text = "" 
+        intervals [47]:
+            xmin = 11.109478458049887 
+            xmax = 11.46979119425548 
+            text = "f1_s_17_pregnancy" 
+        intervals [48]:
+            xmin = 11.46979119425548 
+            xmax = 11.59396970135572 
+            text = "" 
+        intervals [49]:
+            xmin = 11.59396970135572 
+            xmax = 11.72078231292517 
+            text = "" 
+        intervals [50]:
+            xmin = 11.72078231292517 
+            xmax = 11.76639455782313 
+            text = "" 
+        intervals [51]:
+            xmin = 11.76639455782313 
+            xmax = 12.080663209909371 
+            text = "f1_s_18_reconcile" 
+        intervals [52]:
+            xmin = 12.080663209909371 
+            xmax = 12.180000798441442 
+            text = "" 
+        intervals [53]:
+            xmin = 12.180000798441442 
+            xmax = 12.411964597641289 
+            text = "" 
+        intervals [54]:
+            xmin = 12.411964597641289 
+            xmax = 12.549909297052155 
+            text = "" 
+        intervals [55]:
+            xmin = 12.549909297052155 
+            xmax = 12.8292641723356 
+            text = "f1_s_19_rehearsal" 
+        intervals [56]:
+            xmin = 12.8292641723356 
+            xmax = 12.943010502446592 
+            text = "" 
+        intervals [57]:
+            xmin = 12.943010502446592 
+            xmax = 13.136850340136055 
+            text = "" 
+        intervals [58]:
+            xmin = 13.136850340136055 
+            xmax = 13.173038548752835 
+            text = "" 
+        intervals [59]:
+            xmin = 13.173038548752835 
+            xmax = 13.35883125300937 
+            text = "f1_s_20_Tennessee" 
+        intervals [60]:
+            xmin = 13.35883125300937 
+            xmax = 13.496608022519354 
+            text = "" 
+        intervals [61]:
+            xmin = 13.496608022519354 
+            xmax = 13.722063492063493 
+            text = "" 
+        intervals [62]:
+            xmin = 13.722063492063493 
+            xmax = 14.055211782826339 
+            text = "f1_sh_01_ambition" 
+        intervals [63]:
+            xmin = 14.055211782826339 
+            xmax = 14.196378640126001 
+            text = "" 
+        intervals [64]:
+            xmin = 14.196378640126001 
+            xmax = 14.441080336896663 
+            text = "" 
+        intervals [65]:
+            xmin = 14.441080336896663 
+            xmax = 14.544603174603175 
+            text = "" 
+        intervals [66]:
+            xmin = 14.544603174603175 
+            xmax = 14.934293602887164 
+            text = "f1_sh_02_beneficial" 
+        intervals [67]:
+            xmin = 14.934293602887164 
+            xmax = 15.05820852150384 
+            text = "" 
+        intervals [68]:
+            xmin = 15.05820852150384 
+            xmax = 15.21640589569161 
+            text = "" 
+        intervals [69]:
+            xmin = 15.21640589569161 
+            xmax = 15.264149659863946 
+            text = "" 
+        intervals [70]:
+            xmin = 15.264149659863946 
+            xmax = 15.480315129755606 
+            text = "f1_sh_03_brochure" 
+        intervals [71]:
+            xmin = 15.480315129755606 
+            xmax = 15.654068783068782 
+            text = "" 
+        intervals [72]:
+            xmin = 15.654068783068782 
+            xmax = 15.92014220926466 
+            text = "" 
+        intervals [73]:
+            xmin = 15.92014220926466 
+            xmax = 16.00891156462585 
+            text = "" 
+        intervals [74]:
+            xmin = 16.00891156462585 
+            xmax = 16.309599257884972 
+            text = "f1_sh_04_commercial" 
+        intervals [75]:
+            xmin = 16.309599257884972 
+            xmax = 16.446092592592592 
+            text = "" 
+        intervals [76]:
+            xmin = 16.446092592592592 
+            xmax = 16.649319727891157 
+            text = "" 
+        intervals [77]:
+            xmin = 16.649319727891157 
+            xmax = 16.872244202993517 
+            text = "f1_sh_05_crucial" 
+        intervals [78]:
+            xmin = 16.872244202993517 
+            xmax = 16.995333999386336 
+            text = "" 
+        intervals [79]:
+            xmin = 16.995333999386336 
+            xmax = 17.193174603174604 
+            text = "" 
+        intervals [80]:
+            xmin = 17.193174603174604 
+            xmax = 17.47369070757555 
+            text = "f1_sh_06_efficient" 
+        intervals [81]:
+            xmin = 17.47369070757555 
+            xmax = 17.594523152256073 
+            text = "" 
+        intervals [82]:
+            xmin = 17.594523152256073 
+            xmax = 17.951156462585036 
+            text = "" 
+        intervals [83]:
+            xmin = 17.951156462585036 
+            xmax = 18.376528579985457 
+            text = "f1_sh_07_flourishing" 
+        intervals [84]:
+            xmin = 18.376528579985457 
+            xmax = 18.497715997963812 
+            text = "" 
+        intervals [85]:
+            xmin = 18.497715997963812 
+            xmax = 18.8271201814059 
+            text = "" 
+        intervals [86]:
+            xmin = 18.8271201814059 
+            xmax = 19.084165201661193 
+            text = "f1_sh_08_glacier" 
+        intervals [87]:
+            xmin = 19.084165201661193 
+            xmax = 19.217191437281315 
+            text = "" 
+        intervals [88]:
+            xmin = 19.217191437281315 
+            xmax = 19.440204081632658 
+            text = "" 
+        intervals [89]:
+            xmin = 19.440204081632658 
+            xmax = 19.939472369441315 
+            text = "f1_sh_09_graduation" 
+        intervals [90]:
+            xmin = 19.939472369441315 
+            xmax = 20.05135546172492 
+            text = "" 
+        intervals [91]:
+            xmin = 20.05135546172492 
+            xmax = 20.284353741496602 
+            text = "" 
+        intervals [92]:
+            xmin = 20.284353741496602 
+            xmax = 20.6534707740447 
+            text = "f1_sh_10_impatient" 
+        intervals [93]:
+            xmin = 20.6534707740447 
+            xmax = 20.7648574525258 
+            text = "" 
+        intervals [94]:
+            xmin = 20.7648574525258 
+            xmax = 21.137505668934246 
+            text = "" 
+        intervals [95]:
+            xmin = 21.137505668934246 
+            xmax = 21.398573348383483 
+            text = "f1_sh_11_initial" 
+        intervals [96]:
+            xmin = 21.398573348383483 
+            xmax = 21.505976594027445 
+            text = "" 
+        intervals [97]:
+            xmin = 21.505976594027445 
+            xmax = 21.71285714285715 
+            text = "" 
+        intervals [98]:
+            xmin = 21.71285714285715 
+            xmax = 21.788444348534984 
+            text = "f1_sh_12_machinery" 
+        intervals [99]:
+            xmin = 21.788444348534984 
+            xmax = 21.93715801366843 
+            text = "" 
+        intervals [100]:
+            xmin = 21.93715801366843 
+            xmax = 22.381269841269848 
+            text = "" 
+        intervals [101]:
+            xmin = 22.381269841269848 
+            xmax = 22.694145794313926 
+            text = "f1_sh_13_negotiate" 
+        intervals [102]:
+            xmin = 22.694145794313926 
+            xmax = 22.837986718496925 
+            text = "" 
+        intervals [103]:
+            xmin = 22.837986718496925 
+            xmax = 23.31222222222223 
+            text = "" 
+        intervals [104]:
+            xmin = 23.31222222222223 
+            xmax = 23.58195725883696 
+            text = "f1_sh_14_official" 
+        intervals [105]:
+            xmin = 23.58195725883696 
+            xmax = 23.70405445776194 
+            text = "" 
+        intervals [106]:
+            xmin = 23.70405445776194 
+            xmax = 23.92414965986395 
+            text = "" 
+        intervals [107]:
+            xmin = 23.92414965986395 
+            xmax = 24.198233922902496 
+            text = "f1_sh_15_parachute" 
+        intervals [108]:
+            xmin = 24.198233922902496 
+            xmax = 24.37198349269778 
+            text = "" 
+        intervals [109]:
+            xmin = 24.37198349269778 
+            xmax = 24.771224489795923 
+            text = "" 
+        intervals [110]:
+            xmin = 24.771224489795923 
+            xmax = 25.259050544949165 
+            text = "f1_sh_16_pediatrician" 
+        intervals [111]:
+            xmin = 25.259050544949165 
+            xmax = 25.37850153563535 
+            text = "" 
+        intervals [112]:
+            xmin = 25.37850153563535 
+            xmax = 25.597142857142863 
+            text = "" 
+        intervals [113]:
+            xmin = 25.597142857142863 
+            xmax = 25.896220143613004 
+            text = "f1_sh_17_publisher" 
+        intervals [114]:
+            xmin = 25.896220143613004 
+            xmax = 26.009382154468213 
+            text = "" 
+        intervals [115]:
+            xmin = 26.009382154468213 
+            xmax = 26.249365079365084 
+            text = "" 
+        intervals [116]:
+            xmin = 26.249365079365084 
+            xmax = 26.42240179942945 
+            text = "f1_sh_18_reassure" 
+        intervals [117]:
+            xmin = 26.42240179942945 
+            xmax = 26.60073521716379 
+            text = "" 
+        intervals [118]:
+            xmin = 26.60073521716379 
+            xmax = 26.921836734693883 
+            text = "" 
+        intervals [119]:
+            xmin = 26.921836734693883 
+            xmax = 27.260027714789622 
+            text = "f1_sh_19_refreshing" 
+        intervals [120]:
+            xmin = 27.260027714789622 
+            xmax = 27.381525772910795 
+            text = "" 
+        intervals [121]:
+            xmin = 27.381525772910795 
+            xmax = 27.729523809523815 
+            text = "" 
+        intervals [122]:
+            xmin = 27.729523809523815 
+            xmax = 28.21883873925746 
+            text = "f1_sh_20_vacation" 
+        intervals [123]:
+            xmin = 28.21883873925746 
+            xmax = 28.34521633878777 
+            text = "" 
+        intervals [124]:
+            xmin = 28.34521633878777 
+            xmax = 28.561473922902493 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "Offset" 
+        xmin = 0 
+        xmax = 28.561473922902493 
+        intervals: size = 130 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.4389450798634472 
+            text = "" 
+        intervals [2]:
+            xmin = 0.4389450798634472 
+            xmax = 0.6940816326530612 
+            text = "f1_s_01_Arkansas" 
+        intervals [3]:
+            xmin = 0.6940816326530612 
+            xmax = 1.0691431580531108 
+            text = "" 
+        intervals [4]:
+            xmin = 1.0691431580531108 
+            xmax = 1.4243537414965988 
+            text = "f1_s_02_coliseum" 
+        intervals [5]:
+            xmin = 1.4243537414965988 
+            xmax = 1.7399583213567116 
+            text = "" 
+        intervals [6]:
+            xmin = 1.7399583213567116 
+            xmax = 1.8851427237561693 
+            text = "" 
+        intervals [7]:
+            xmin = 1.8851427237561693 
+            xmax = 2.319455782312925 
+            text = "f1_s_03_compensate" 
+        intervals [8]:
+            xmin = 2.319455782312925 
+            xmax = 2.7668473594888687 
+            text = "" 
+        intervals [9]:
+            xmin = 2.7668473594888687 
+            xmax = 2.8814589276570843 
+            text = "" 
+        intervals [10]:
+            xmin = 2.8814589276570843 
+            xmax = 3.055015117157974 
+            text = "f1_s_04_democracy" 
+        intervals [11]:
+            xmin = 3.055015117157974 
+            xmax = 3.094580498866213 
+            text = "" 
+        intervals [12]:
+            xmin = 3.094580498866213 
+            xmax = 3.3389685523332138 
+            text = "" 
+        intervals [13]:
+            xmin = 3.3389685523332138 
+            xmax = 3.451119274376417 
+            text = "" 
+        intervals [14]:
+            xmin = 3.451119274376417 
+            xmax = 3.6693166860240027 
+            text = "f1_s_05_dinosaur" 
+        intervals [15]:
+            xmin = 3.6693166860240027 
+            xmax = 3.71907029478458 
+            text = "" 
+        intervals [16]:
+            xmin = 3.71907029478458 
+            xmax = 3.9764561062520247 
+            text = "" 
+        intervals [17]:
+            xmin = 3.9764561062520247 
+            xmax = 4.120377928949358 
+            text = "" 
+        intervals [18]:
+            xmin = 4.120377928949358 
+            xmax = 4.266274994846423 
+            text = "f1_s_06_embassy" 
+        intervals [19]:
+            xmin = 4.266274994846423 
+            xmax = 4.313537414965986 
+            text = "" 
+        intervals [20]:
+            xmin = 4.313537414965986 
+            xmax = 4.51377345066467 
+            text = "" 
+        intervals [21]:
+            xmin = 4.51377345066467 
+            xmax = 4.631476276045009 
+            text = "" 
+        intervals [22]:
+            xmin = 4.631476276045009 
+            xmax = 4.977097505668934 
+            text = "f1_s_07_episode" 
+        intervals [23]:
+            xmin = 4.977097505668934 
+            xmax = 5.293709924007374 
+            text = "" 
+        intervals [24]:
+            xmin = 5.293709924007374 
+            xmax = 5.4226954775141865 
+            text = "" 
+        intervals [25]:
+            xmin = 5.4226954775141865 
+            xmax = 5.575036688832837 
+            text = "f1_s_08_eraser" 
+        intervals [26]:
+            xmin = 5.575036688832837 
+            xmax = 5.687414965986394 
+            text = "" 
+        intervals [27]:
+            xmin = 5.687414965986394 
+            xmax = 5.944316591307182 
+            text = "" 
+        intervals [28]:
+            xmin = 5.944316591307182 
+            xmax = 6.049413538254808 
+            text = "" 
+        intervals [29]:
+            xmin = 6.049413538254808 
+            xmax = 6.538979591836735 
+            text = "f1_s_09_hallucinate" 
+        intervals [30]:
+            xmin = 6.538979591836735 
+            xmax = 6.8389036369756235 
+            text = "" 
+        intervals [31]:
+            xmin = 6.8389036369756235 
+            xmax = 6.95991837987497 
+            text = "" 
+        intervals [32]:
+            xmin = 6.95991837987497 
+            xmax = 7.067118649261507 
+            text = "f1_s_10_legacy" 
+        intervals [33]:
+            xmin = 7.067118649261507 
+            xmax = 7.126235827664399 
+            text = "" 
+        intervals [34]:
+            xmin = 7.126235827664399 
+            xmax = 7.443979834357986 
+            text = "" 
+        intervals [35]:
+            xmin = 7.443979834357986 
+            xmax = 7.59729863373921 
+            text = "" 
+        intervals [36]:
+            xmin = 7.59729863373921 
+            xmax = 7.830702947845804 
+            text = "f1_s_11_literacy" 
+        intervals [37]:
+            xmin = 7.830702947845804 
+            xmax = 8.106889063317634 
+            text = "" 
+        intervals [38]:
+            xmin = 8.106889063317634 
+            xmax = 8.235008721437293 
+            text = "" 
+        intervals [39]:
+            xmin = 8.235008721437293 
+            xmax = 8.473990929705215 
+            text = "f1_s_12_medicine" 
+        intervals [40]:
+            xmin = 8.473990929705215 
+            xmax = 8.59544595616024 
+            text = "" 
+        intervals [41]:
+            xmin = 8.59544595616024 
+            xmax = 8.770821477115277 
+            text = "" 
+        intervals [42]:
+            xmin = 8.770821477115277 
+            xmax = 9.19453514739229 
+            text = "f1_s_13_obscene" 
+        intervals [43]:
+            xmin = 9.19453514739229 
+            xmax = 9.47551655827166 
+            text = "" 
+        intervals [44]:
+            xmin = 9.47551655827166 
+            xmax = 9.603537515301106 
+            text = "" 
+        intervals [45]:
+            xmin = 9.603537515301106 
+            xmax = 9.93312925170068 
+            text = "f1_s_14_parasite" 
+        intervals [46]:
+            xmin = 9.93312925170068 
+            xmax = 10.188981760820269 
+            text = "" 
+        intervals [47]:
+            xmin = 10.188981760820269 
+            xmax = 10.28233250876108 
+            text = "" 
+        intervals [48]:
+            xmin = 10.28233250876108 
+            xmax = 10.460731189445475 
+            text = "f1_s_15_peninsula" 
+        intervals [49]:
+            xmin = 10.460731189445475 
+            xmax = 10.556281179138322 
+            text = "" 
+        intervals [50]:
+            xmin = 10.556281179138322 
+            xmax = 10.712657671127058 
+            text = "" 
+        intervals [51]:
+            xmin = 10.712657671127058 
+            xmax = 10.823552896860319 
+            text = "f1_s_16_personal" 
+        intervals [52]:
+            xmin = 10.823552896860319 
+            xmax = 11.109478458049887 
+            text = "" 
+        intervals [53]:
+            xmin = 11.109478458049887 
+            xmax = 11.46979119425548 
+            text = "" 
+        intervals [54]:
+            xmin = 11.46979119425548 
+            xmax = 11.59396970135572 
+            text = "" 
+        intervals [55]:
+            xmin = 11.59396970135572 
+            xmax = 11.72078231292517 
+            text = "f1_s_17_pregnancy" 
+        intervals [56]:
+            xmin = 11.72078231292517 
+            xmax = 11.76639455782313 
+            text = "" 
+        intervals [57]:
+            xmin = 11.76639455782313 
+            xmax = 12.080663209909371 
+            text = "" 
+        intervals [58]:
+            xmin = 12.080663209909371 
+            xmax = 12.180000798441442 
+            text = "" 
+        intervals [59]:
+            xmin = 12.180000798441442 
+            xmax = 12.411964597641289 
+            text = "f1_s_18_reconcile" 
+        intervals [60]:
+            xmin = 12.411964597641289 
+            xmax = 12.549909297052155 
+            text = "" 
+        intervals [61]:
+            xmin = 12.549909297052155 
+            xmax = 12.8292641723356 
+            text = "" 
+        intervals [62]:
+            xmin = 12.8292641723356 
+            xmax = 12.943010502446592 
+            text = "" 
+        intervals [63]:
+            xmin = 12.943010502446592 
+            xmax = 13.136850340136055 
+            text = "f1_s_19_rehearsal" 
+        intervals [64]:
+            xmin = 13.136850340136055 
+            xmax = 13.173038548752835 
+            text = "" 
+        intervals [65]:
+            xmin = 13.173038548752835 
+            xmax = 13.35883125300937 
+            text = "" 
+        intervals [66]:
+            xmin = 13.35883125300937 
+            xmax = 13.496608022519354 
+            text = "" 
+        intervals [67]:
+            xmin = 13.496608022519354 
+            xmax = 13.722063492063493 
+            text = "f1_s_20_Tennessee" 
+        intervals [68]:
+            xmin = 13.722063492063493 
+            xmax = 14.055211782826339 
+            text = "" 
+        intervals [69]:
+            xmin = 14.055211782826339 
+            xmax = 14.196378640126001 
+            text = "" 
+        intervals [70]:
+            xmin = 14.196378640126001 
+            xmax = 14.441080336896663 
+            text = "f1_sh_01_ambition" 
+        intervals [71]:
+            xmin = 14.441080336896663 
+            xmax = 14.544603174603175 
+            text = "" 
+        intervals [72]:
+            xmin = 14.544603174603175 
+            xmax = 14.934293602887164 
+            text = "" 
+        intervals [73]:
+            xmin = 14.934293602887164 
+            xmax = 15.05820852150384 
+            text = "" 
+        intervals [74]:
+            xmin = 15.05820852150384 
+            xmax = 15.21640589569161 
+            text = "f1_sh_02_beneficial" 
+        intervals [75]:
+            xmin = 15.21640589569161 
+            xmax = 15.264149659863946 
+            text = "" 
+        intervals [76]:
+            xmin = 15.264149659863946 
+            xmax = 15.480315129755606 
+            text = "" 
+        intervals [77]:
+            xmin = 15.480315129755606 
+            xmax = 15.654068783068782 
+            text = "" 
+        intervals [78]:
+            xmin = 15.654068783068782 
+            xmax = 15.92014220926466 
+            text = "f1_sh_03_brochure" 
+        intervals [79]:
+            xmin = 15.92014220926466 
+            xmax = 16.00891156462585 
+            text = "" 
+        intervals [80]:
+            xmin = 16.00891156462585 
+            xmax = 16.309599257884972 
+            text = "" 
+        intervals [81]:
+            xmin = 16.309599257884972 
+            xmax = 16.446092592592592 
+            text = "" 
+        intervals [82]:
+            xmin = 16.446092592592592 
+            xmax = 16.649319727891157 
+            text = "f1_sh_04_commercial" 
+        intervals [83]:
+            xmin = 16.649319727891157 
+            xmax = 16.872244202993517 
+            text = "" 
+        intervals [84]:
+            xmin = 16.872244202993517 
+            xmax = 16.995333999386336 
+            text = "" 
+        intervals [85]:
+            xmin = 16.995333999386336 
+            xmax = 17.193174603174604 
+            text = "f1_sh_05_crucial" 
+        intervals [86]:
+            xmin = 17.193174603174604 
+            xmax = 17.47369070757555 
+            text = "" 
+        intervals [87]:
+            xmin = 17.47369070757555 
+            xmax = 17.594523152256073 
+            text = "" 
+        intervals [88]:
+            xmin = 17.594523152256073 
+            xmax = 17.951156462585036 
+            text = "f1_sh_06_efficient" 
+        intervals [89]:
+            xmin = 17.951156462585036 
+            xmax = 18.376528579985457 
+            text = "" 
+        intervals [90]:
+            xmin = 18.376528579985457 
+            xmax = 18.497715997963812 
+            text = "" 
+        intervals [91]:
+            xmin = 18.497715997963812 
+            xmax = 18.8271201814059 
+            text = "f1_sh_07_flourishing" 
+        intervals [92]:
+            xmin = 18.8271201814059 
+            xmax = 19.084165201661193 
+            text = "" 
+        intervals [93]:
+            xmin = 19.084165201661193 
+            xmax = 19.217191437281315 
+            text = "" 
+        intervals [94]:
+            xmin = 19.217191437281315 
+            xmax = 19.440204081632658 
+            text = "f1_sh_08_glacier" 
+        intervals [95]:
+            xmin = 19.440204081632658 
+            xmax = 19.939472369441315 
+            text = "" 
+        intervals [96]:
+            xmin = 19.939472369441315 
+            xmax = 20.05135546172492 
+            text = "" 
+        intervals [97]:
+            xmin = 20.05135546172492 
+            xmax = 20.284353741496602 
+            text = "f1_sh_09_graduation" 
+        intervals [98]:
+            xmin = 20.284353741496602 
+            xmax = 20.6534707740447 
+            text = "" 
+        intervals [99]:
+            xmin = 20.6534707740447 
+            xmax = 20.7648574525258 
+            text = "" 
+        intervals [100]:
+            xmin = 20.7648574525258 
+            xmax = 21.137505668934246 
+            text = "f1_sh_10_impatient" 
+        intervals [101]:
+            xmin = 21.137505668934246 
+            xmax = 21.398573348383483 
+            text = "" 
+        intervals [102]:
+            xmin = 21.398573348383483 
+            xmax = 21.505976594027445 
+            text = "" 
+        intervals [103]:
+            xmin = 21.505976594027445 
+            xmax = 21.71285714285715 
+            text = "f1_sh_11_initial" 
+        intervals [104]:
+            xmin = 21.71285714285715 
+            xmax = 21.788444348534984 
+            text = "" 
+        intervals [105]:
+            xmin = 21.788444348534984 
+            xmax = 21.93715801366843 
+            text = "" 
+        intervals [106]:
+            xmin = 21.93715801366843 
+            xmax = 22.381269841269848 
+            text = "f1_sh_12_machinery" 
+        intervals [107]:
+            xmin = 22.381269841269848 
+            xmax = 22.694145794313926 
+            text = "" 
+        intervals [108]:
+            xmin = 22.694145794313926 
+            xmax = 22.837986718496925 
+            text = "" 
+        intervals [109]:
+            xmin = 22.837986718496925 
+            xmax = 23.31222222222223 
+            text = "f1_sh_13_negotiate" 
+        intervals [110]:
+            xmin = 23.31222222222223 
+            xmax = 23.58195725883696 
+            text = "" 
+        intervals [111]:
+            xmin = 23.58195725883696 
+            xmax = 23.70405445776194 
+            text = "" 
+        intervals [112]:
+            xmin = 23.70405445776194 
+            xmax = 23.92414965986395 
+            text = "f1_sh_14_official" 
+        intervals [113]:
+            xmin = 23.92414965986395 
+            xmax = 24.198233922902496 
+            text = "" 
+        intervals [114]:
+            xmin = 24.198233922902496 
+            xmax = 24.37198349269778 
+            text = "" 
+        intervals [115]:
+            xmin = 24.37198349269778 
+            xmax = 24.771224489795923 
+            text = "f1_sh_15_parachute" 
+        intervals [116]:
+            xmin = 24.771224489795923 
+            xmax = 25.259050544949165 
+            text = "" 
+        intervals [117]:
+            xmin = 25.259050544949165 
+            xmax = 25.37850153563535 
+            text = "" 
+        intervals [118]:
+            xmin = 25.37850153563535 
+            xmax = 25.597142857142863 
+            text = "f1_sh_16_pediatrician" 
+        intervals [119]:
+            xmin = 25.597142857142863 
+            xmax = 25.896220143613004 
+            text = "" 
+        intervals [120]:
+            xmin = 25.896220143613004 
+            xmax = 26.009382154468213 
+            text = "" 
+        intervals [121]:
+            xmin = 26.009382154468213 
+            xmax = 26.249365079365084 
+            text = "f1_sh_17_publisher" 
+        intervals [122]:
+            xmin = 26.249365079365084 
+            xmax = 26.42240179942945 
+            text = "" 
+        intervals [123]:
+            xmin = 26.42240179942945 
+            xmax = 26.60073521716379 
+            text = "" 
+        intervals [124]:
+            xmin = 26.60073521716379 
+            xmax = 26.921836734693883 
+            text = "f1_sh_18_reassure" 
+        intervals [125]:
+            xmin = 26.921836734693883 
+            xmax = 27.260027714789622 
+            text = "" 
+        intervals [126]:
+            xmin = 27.260027714789622 
+            xmax = 27.381525772910795 
+            text = "" 
+        intervals [127]:
+            xmin = 27.381525772910795 
+            xmax = 27.729523809523815 
+            text = "f1_sh_19_refreshing" 
+        intervals [128]:
+            xmin = 27.729523809523815 
+            xmax = 28.21883873925746 
+            text = "" 
+        intervals [129]:
+            xmin = 28.21883873925746 
+            xmax = 28.34521633878777 
+            text = "" 
+        intervals [130]:
+            xmin = 28.34521633878777 
+            xmax = 28.561473922902493 
+            text = "f1_sh_20_vacation" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "Fricative" 
+        xmin = 0 
+        xmax = 28.561473922902493 
+        intervals: size = 131 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.3084467120181406 
+            text = "" 
+        intervals [2]:
+            xmin = 0.3084467120181406 
+            xmax = 0.4389450798634472 
+            text = "f1_s_01_Arkansas" 
+        intervals [3]:
+            xmin = 0.4389450798634472 
+            xmax = 0.6940816326530612 
+            text = "" 
+        intervals [4]:
+            xmin = 0.6940816326530612 
+            xmax = 0.9135900877540852 
+            text = "" 
+        intervals [5]:
+            xmin = 0.9135900877540852 
+            xmax = 1.0691431580531108 
+            text = "f1_s_02_coliseum" 
+        intervals [6]:
+            xmin = 1.0691431580531108 
+            xmax = 1.4243537414965988 
+            text = "" 
+        intervals [7]:
+            xmin = 1.4243537414965988 
+            xmax = 1.7399583213567116 
+            text = "" 
+        intervals [8]:
+            xmin = 1.7399583213567116 
+            xmax = 1.8851427237561693 
+            text = "f1_s_03_compensate" 
+        intervals [9]:
+            xmin = 1.8851427237561693 
+            xmax = 2.319455782312925 
+            text = "" 
+        intervals [10]:
+            xmin = 2.319455782312925 
+            xmax = 2.7668473594888687 
+            text = "" 
+        intervals [11]:
+            xmin = 2.7668473594888687 
+            xmax = 2.8814589276570843 
+            text = "f1_s_04_democracy" 
+        intervals [12]:
+            xmin = 2.8814589276570843 
+            xmax = 3.055015117157974 
+            text = "" 
+        intervals [13]:
+            xmin = 3.055015117157974 
+            xmax = 3.094580498866213 
+            text = "" 
+        intervals [14]:
+            xmin = 3.094580498866213 
+            xmax = 3.3389685523332138 
+            text = "" 
+        intervals [15]:
+            xmin = 3.3389685523332138 
+            xmax = 3.451119274376417 
+            text = "f1_s_05_dinosaur" 
+        intervals [16]:
+            xmin = 3.451119274376417 
+            xmax = 3.71907029478458 
+            text = "" 
+        intervals [17]:
+            xmin = 3.71907029478458 
+            xmax = 3.9764561062520247 
+            text = "" 
+        intervals [18]:
+            xmin = 3.9764561062520247 
+            xmax = 4.120377928949358 
+            text = "f1_s_06_embassy" 
+        intervals [19]:
+            xmin = 4.120377928949358 
+            xmax = 4.266274994846423 
+            text = "" 
+        intervals [20]:
+            xmin = 4.266274994846423 
+            xmax = 4.313537414965986 
+            text = "" 
+        intervals [21]:
+            xmin = 4.313537414965986 
+            xmax = 4.51377345066467 
+            text = "" 
+        intervals [22]:
+            xmin = 4.51377345066467 
+            xmax = 4.631476276045009 
+            text = "f1_s_07_episode" 
+        intervals [23]:
+            xmin = 4.631476276045009 
+            xmax = 4.977097505668934 
+            text = "" 
+        intervals [24]:
+            xmin = 4.977097505668934 
+            xmax = 5.293709924007374 
+            text = "" 
+        intervals [25]:
+            xmin = 5.293709924007374 
+            xmax = 5.4226954775141865 
+            text = "f1_s_08_eraser" 
+        intervals [26]:
+            xmin = 5.4226954775141865 
+            xmax = 5.575036688832837 
+            text = "" 
+        intervals [27]:
+            xmin = 5.575036688832837 
+            xmax = 5.687414965986394 
+            text = "" 
+        intervals [28]:
+            xmin = 5.687414965986394 
+            xmax = 5.944316591307182 
+            text = "" 
+        intervals [29]:
+            xmin = 5.944316591307182 
+            xmax = 6.049413538254808 
+            text = "f1_s_09_hallucinate" 
+        intervals [30]:
+            xmin = 6.049413538254808 
+            xmax = 6.538979591836735 
+            text = "" 
+        intervals [31]:
+            xmin = 6.538979591836735 
+            xmax = 6.8389036369756235 
+            text = "" 
+        intervals [32]:
+            xmin = 6.8389036369756235 
+            xmax = 6.95991837987497 
+            text = "f1_s_10_legacy" 
+        intervals [33]:
+            xmin = 6.95991837987497 
+            xmax = 7.067118649261507 
+            text = "" 
+        intervals [34]:
+            xmin = 7.067118649261507 
+            xmax = 7.126235827664399 
+            text = "" 
+        intervals [35]:
+            xmin = 7.126235827664399 
+            xmax = 7.443979834357986 
+            text = "" 
+        intervals [36]:
+            xmin = 7.443979834357986 
+            xmax = 7.59729863373921 
+            text = "f1_s_11_literacy" 
+        intervals [37]:
+            xmin = 7.59729863373921 
+            xmax = 7.830702947845804 
+            text = "" 
+        intervals [38]:
+            xmin = 7.830702947845804 
+            xmax = 8.106889063317634 
+            text = "" 
+        intervals [39]:
+            xmin = 8.106889063317634 
+            xmax = 8.235008721437293 
+            text = "f1_s_12_medicine" 
+        intervals [40]:
+            xmin = 8.235008721437293 
+            xmax = 8.473990929705215 
+            text = "" 
+        intervals [41]:
+            xmin = 8.473990929705215 
+            xmax = 8.59544595616024 
+            text = "" 
+        intervals [42]:
+            xmin = 8.59544595616024 
+            xmax = 8.770821477115277 
+            text = "f1_s_13_obscene" 
+        intervals [43]:
+            xmin = 8.770821477115277 
+            xmax = 9.19453514739229 
+            text = "" 
+        intervals [44]:
+            xmin = 9.19453514739229 
+            xmax = 9.47551655827166 
+            text = "" 
+        intervals [45]:
+            xmin = 9.47551655827166 
+            xmax = 9.603537515301106 
+            text = "f1_s_14_parasite" 
+        intervals [46]:
+            xmin = 9.603537515301106 
+            xmax = 9.93312925170068 
+            text = "" 
+        intervals [47]:
+            xmin = 9.93312925170068 
+            xmax = 10.188981760820269 
+            text = "" 
+        intervals [48]:
+            xmin = 10.188981760820269 
+            xmax = 10.28233250876108 
+            text = "f1_s_15_peninsula" 
+        intervals [49]:
+            xmin = 10.28233250876108 
+            xmax = 10.460731189445475 
+            text = "" 
+        intervals [50]:
+            xmin = 10.460731189445475 
+            xmax = 10.556281179138322 
+            text = "" 
+        intervals [51]:
+            xmin = 10.556281179138322 
+            xmax = 10.712657671127058 
+            text = "" 
+        intervals [52]:
+            xmin = 10.712657671127058 
+            xmax = 10.823552896860319 
+            text = "" 
+        intervals [53]:
+            xmin = 10.823552896860319 
+            xmax = 11.109478458049887 
+            text = "f1_s_16_personal" 
+        intervals [54]:
+            xmin = 11.109478458049887 
+            xmax = 11.46979119425548 
+            text = "" 
+        intervals [55]:
+            xmin = 11.46979119425548 
+            xmax = 11.59396970135572 
+            text = "f1_s_17_pregnancy" 
+        intervals [56]:
+            xmin = 11.59396970135572 
+            xmax = 11.72078231292517 
+            text = "" 
+        intervals [57]:
+            xmin = 11.72078231292517 
+            xmax = 11.76639455782313 
+            text = "" 
+        intervals [58]:
+            xmin = 11.76639455782313 
+            xmax = 12.080663209909371 
+            text = "" 
+        intervals [59]:
+            xmin = 12.080663209909371 
+            xmax = 12.180000798441442 
+            text = "f1_s_18_reconcile" 
+        intervals [60]:
+            xmin = 12.180000798441442 
+            xmax = 12.411964597641289 
+            text = "" 
+        intervals [61]:
+            xmin = 12.411964597641289 
+            xmax = 12.549909297052155 
+            text = "" 
+        intervals [62]:
+            xmin = 12.549909297052155 
+            xmax = 12.8292641723356 
+            text = "" 
+        intervals [63]:
+            xmin = 12.8292641723356 
+            xmax = 12.943010502446592 
+            text = "f1_s_19_rehearsal" 
+        intervals [64]:
+            xmin = 12.943010502446592 
+            xmax = 13.136850340136055 
+            text = "" 
+        intervals [65]:
+            xmin = 13.136850340136055 
+            xmax = 13.173038548752835 
+            text = "" 
+        intervals [66]:
+            xmin = 13.173038548752835 
+            xmax = 13.35883125300937 
+            text = "" 
+        intervals [67]:
+            xmin = 13.35883125300937 
+            xmax = 13.496608022519354 
+            text = "f1_s_20_Tennessee" 
+        intervals [68]:
+            xmin = 13.496608022519354 
+            xmax = 13.722063492063493 
+            text = "" 
+        intervals [69]:
+            xmin = 13.722063492063493 
+            xmax = 14.055211782826339 
+            text = "" 
+        intervals [70]:
+            xmin = 14.055211782826339 
+            xmax = 14.196378640126001 
+            text = "f1_sh_01_ambition" 
+        intervals [71]:
+            xmin = 14.196378640126001 
+            xmax = 14.441080336896663 
+            text = "" 
+        intervals [72]:
+            xmin = 14.441080336896663 
+            xmax = 14.544603174603175 
+            text = "" 
+        intervals [73]:
+            xmin = 14.544603174603175 
+            xmax = 14.934293602887164 
+            text = "" 
+        intervals [74]:
+            xmin = 14.934293602887164 
+            xmax = 15.05820852150384 
+            text = "f1_sh_02_beneficial" 
+        intervals [75]:
+            xmin = 15.05820852150384 
+            xmax = 15.21640589569161 
+            text = "" 
+        intervals [76]:
+            xmin = 15.21640589569161 
+            xmax = 15.264149659863946 
+            text = "" 
+        intervals [77]:
+            xmin = 15.264149659863946 
+            xmax = 15.480315129755606 
+            text = "" 
+        intervals [78]:
+            xmin = 15.480315129755606 
+            xmax = 15.654068783068782 
+            text = "f1_sh_03_brochure" 
+        intervals [79]:
+            xmin = 15.654068783068782 
+            xmax = 15.92014220926466 
+            text = "" 
+        intervals [80]:
+            xmin = 15.92014220926466 
+            xmax = 16.00891156462585 
+            text = "" 
+        intervals [81]:
+            xmin = 16.00891156462585 
+            xmax = 16.309599257884972 
+            text = "" 
+        intervals [82]:
+            xmin = 16.309599257884972 
+            xmax = 16.446092592592592 
+            text = "f1_sh_04_commercial" 
+        intervals [83]:
+            xmin = 16.446092592592592 
+            xmax = 16.649319727891157 
+            text = "" 
+        intervals [84]:
+            xmin = 16.649319727891157 
+            xmax = 16.872244202993517 
+            text = "" 
+        intervals [85]:
+            xmin = 16.872244202993517 
+            xmax = 16.995333999386336 
+            text = "f1_sh_05_crucial" 
+        intervals [86]:
+            xmin = 16.995333999386336 
+            xmax = 17.193174603174604 
+            text = "" 
+        intervals [87]:
+            xmin = 17.193174603174604 
+            xmax = 17.47369070757555 
+            text = "" 
+        intervals [88]:
+            xmin = 17.47369070757555 
+            xmax = 17.594523152256073 
+            text = "f1_sh_06_efficient" 
+        intervals [89]:
+            xmin = 17.594523152256073 
+            xmax = 17.951156462585036 
+            text = "" 
+        intervals [90]:
+            xmin = 17.951156462585036 
+            xmax = 18.376528579985457 
+            text = "" 
+        intervals [91]:
+            xmin = 18.376528579985457 
+            xmax = 18.497715997963812 
+            text = "f1_sh_07_flourishing" 
+        intervals [92]:
+            xmin = 18.497715997963812 
+            xmax = 18.8271201814059 
+            text = "" 
+        intervals [93]:
+            xmin = 18.8271201814059 
+            xmax = 19.084165201661193 
+            text = "" 
+        intervals [94]:
+            xmin = 19.084165201661193 
+            xmax = 19.217191437281315 
+            text = "f1_sh_08_glacier" 
+        intervals [95]:
+            xmin = 19.217191437281315 
+            xmax = 19.440204081632658 
+            text = "" 
+        intervals [96]:
+            xmin = 19.440204081632658 
+            xmax = 19.939472369441315 
+            text = "" 
+        intervals [97]:
+            xmin = 19.939472369441315 
+            xmax = 20.05135546172492 
+            text = "f1_sh_09_graduation" 
+        intervals [98]:
+            xmin = 20.05135546172492 
+            xmax = 20.284353741496602 
+            text = "" 
+        intervals [99]:
+            xmin = 20.284353741496602 
+            xmax = 20.6534707740447 
+            text = "" 
+        intervals [100]:
+            xmin = 20.6534707740447 
+            xmax = 20.7648574525258 
+            text = "f1_sh_10_impatient" 
+        intervals [101]:
+            xmin = 20.7648574525258 
+            xmax = 21.137505668934246 
+            text = "" 
+        intervals [102]:
+            xmin = 21.137505668934246 
+            xmax = 21.398573348383483 
+            text = "" 
+        intervals [103]:
+            xmin = 21.398573348383483 
+            xmax = 21.505976594027445 
+            text = "f1_sh_11_initial" 
+        intervals [104]:
+            xmin = 21.505976594027445 
+            xmax = 21.71285714285715 
+            text = "" 
+        intervals [105]:
+            xmin = 21.71285714285715 
+            xmax = 21.788444348534984 
+            text = "" 
+        intervals [106]:
+            xmin = 21.788444348534984 
+            xmax = 21.93715801366843 
+            text = "f1_sh_12_machinery" 
+        intervals [107]:
+            xmin = 21.93715801366843 
+            xmax = 22.381269841269848 
+            text = "" 
+        intervals [108]:
+            xmin = 22.381269841269848 
+            xmax = 22.694145794313926 
+            text = "" 
+        intervals [109]:
+            xmin = 22.694145794313926 
+            xmax = 22.837986718496925 
+            text = "f1_sh_13_negotiate" 
+        intervals [110]:
+            xmin = 22.837986718496925 
+            xmax = 23.31222222222223 
+            text = "" 
+        intervals [111]:
+            xmin = 23.31222222222223 
+            xmax = 23.58195725883696 
+            text = "" 
+        intervals [112]:
+            xmin = 23.58195725883696 
+            xmax = 23.70405445776194 
+            text = "f1_sh_14_official" 
+        intervals [113]:
+            xmin = 23.70405445776194 
+            xmax = 23.92414965986395 
+            text = "" 
+        intervals [114]:
+            xmin = 23.92414965986395 
+            xmax = 24.198233922902496 
+            text = "" 
+        intervals [115]:
+            xmin = 24.198233922902496 
+            xmax = 24.37198349269778 
+            text = "f1_sh_15_parachute" 
+        intervals [116]:
+            xmin = 24.37198349269778 
+            xmax = 24.771224489795923 
+            text = "" 
+        intervals [117]:
+            xmin = 24.771224489795923 
+            xmax = 25.259050544949165 
+            text = "" 
+        intervals [118]:
+            xmin = 25.259050544949165 
+            xmax = 25.37850153563535 
+            text = "f1_sh_16_pediatrician" 
+        intervals [119]:
+            xmin = 25.37850153563535 
+            xmax = 25.597142857142863 
+            text = "" 
+        intervals [120]:
+            xmin = 25.597142857142863 
+            xmax = 25.896220143613004 
+            text = "" 
+        intervals [121]:
+            xmin = 25.896220143613004 
+            xmax = 26.009382154468213 
+            text = "f1_sh_17_publisher" 
+        intervals [122]:
+            xmin = 26.009382154468213 
+            xmax = 26.249365079365084 
+            text = "" 
+        intervals [123]:
+            xmin = 26.249365079365084 
+            xmax = 26.42240179942945 
+            text = "" 
+        intervals [124]:
+            xmin = 26.42240179942945 
+            xmax = 26.60073521716379 
+            text = "f1_sh_18_reassure" 
+        intervals [125]:
+            xmin = 26.60073521716379 
+            xmax = 26.921836734693883 
+            text = "" 
+        intervals [126]:
+            xmin = 26.921836734693883 
+            xmax = 27.260027714789622 
+            text = "" 
+        intervals [127]:
+            xmin = 27.260027714789622 
+            xmax = 27.381525772910795 
+            text = "f1_sh_19_refreshing" 
+        intervals [128]:
+            xmin = 27.381525772910795 
+            xmax = 27.729523809523815 
+            text = "" 
+        intervals [129]:
+            xmin = 27.729523809523815 
+            xmax = 28.21883873925746 
+            text = "" 
+        intervals [130]:
+            xmin = 28.21883873925746 
+            xmax = 28.34521633878777 
+            text = "f1_sh_20_vacation" 
+        intervals [131]:
+            xmin = 28.34521633878777 
+            xmax = 28.561473922902493 
+            text = "" 
