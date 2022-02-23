@@ -1,3 +1,5 @@
+# This script is identical to extract.praat, but removes both the definition and use of the Margin
+#
 # This script saves each interval in the selected IntervalTier of a TextGrid to a separate WAV sound file.
 # The source sound must be a LongSound object, and both the TextGrid and 
 # the LongSound must have identical names and they have to be selected 
@@ -19,8 +21,6 @@ form Save intervals to small WAV sound files
 	boolean Exclude_empty_labels 1
 	boolean Exclude_intervals_labeled_as_xxx 1
 	boolean Exclude_intervals_starting_with_dot_(.) 1
-	comment Give a small margin for the files if you like:
-	positive Margin_(seconds) 0.000
 	comment Give the folder where to save the sound files:
 	sentence Folder 
 	comment Give an optional prefix for all filenames:
@@ -89,18 +89,8 @@ for interval from start_from to end_at
 	endif
 	if check = 0
 		intervalstart = Get starting point... tier interval
-			if intervalstart > margin
-				intervalstart = intervalstart - margin
-			else
-				intervalstart = 0
-			endif
 	
 		intervalend = Get end point... tier interval
-			if intervalend < endoffile - margin
-				intervalend = intervalend + margin
-			else
-				intervalend = endoffile
-			endif
 	
 		select LongSound 'soundname$'
 		Extract part... intervalstart intervalend no
