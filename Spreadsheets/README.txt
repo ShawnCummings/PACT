@@ -14,3 +14,8 @@ PACT
 	1b-002: 1x Exposure, SH-bias pepepe, SS-bias f1f1f1
 	1b-003: 2x Exposure, SH-bias f1f1f1, SS-bias pepepe
 	1b-004: 2x Exposure, SH-bias pepepe, SS-bias f1f1f1
+
+
+
+SS-bias = SS-label = "dinoshaur" (amb /s/, clear /ʃ/) = /a?i/ as S
+SH-bias = SH-label = "masinery" (amb /ʃ/, clear /s/) = /aʃi/ as SH
