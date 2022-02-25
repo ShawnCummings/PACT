@@ -1,17 +1,28 @@
 PACT
 E1ː Exact replication of LMM21, with interleaved exposure and blocked test.
+2 Biases x 2 block orders x 2 test key bindings x 2 exposure doses = 16 total lists
 1a: 1x Exposure
-	1a-001: 1x Exposure, SH-bias f1f1f1, SS-bias pepepe, first test block f1f1f1, second test block pepepe
-	1a-002: 1x Exposure, SH-bias f1f1f1, SS-bias pepepe, first test block pepepe, second test block f1f1f1
-	1a-003: 1x Exposure, SH-bias pepepe, SS-bias f1f1f1, first test block f1f1f1, second test block pepepe
-	1a-004: 1x Exposure, SH-bias pepepe, SS-bias f1f1f1, first test block pepepe, second test block f1f1f1
+	1a-001: 1x Exposure, SH-bias f1f1f1, SS-bias pepepe, first test block f1f1f1, second test block pepepe, test S key X, test SH key M
+	1a-002: 1x Exposure, SH-bias f1f1f1, SS-bias pepepe, first test block pepepe, second test block f1f1f1, test S key X, test SH key M
+	1a-003: 1x Exposure, SH-bias pepepe, SS-bias f1f1f1, first test block f1f1f1, second test block pepepe, test S key X, test SH key M
+	1a-004: 1x Exposure, SH-bias pepepe, SS-bias f1f1f1, first test block pepepe, second test block f1f1f1, test S key X, test SH key M
+	1a-005: 1x Exposure, SH-bias f1f1f1, SS-bias pepepe, first test block f1f1f1, second test block pepepe, test S key M, test SH key S
+	1a-006: 1x Exposure, SH-bias f1f1f1, SS-bias pepepe, first test block pepepe, second test block f1f1f1, test S key M, test SH key S
+	1a-007: 1x Exposure, SH-bias pepepe, SS-bias f1f1f1, first test block f1f1f1, second test block pepepe, test S key M, test SH key S
+	1a-008: 1x Exposure, SH-bias pepepe, SS-bias f1f1f1, first test block pepepe, second test block f1f1f1, test S key M, test SH key S
 1bː 2x Exposure
-	1b-001: 2x Exposure, SH-bias f1f1f1, SS-bias pepepe, first test block f1f1f1, second test block pepepe
-	1b-002: 2x Exposure, SH-bias f1f1f1, SS-bias pepepe, first test block pepepe, second test block f1f1f1
-	1b-003: 2x Exposure, SH-bias pepepe, SS-bias f1f1f1, first test block f1f1f1, second test block pepepe
-	1b-004: 2x Exposure, SH-bias pepepe, SS-bias f1f1f1, first test block pepepe, second test block f1f1f1
+	1b-001: 2x Exposure, SH-bias f1f1f1, SS-bias pepepe, first test block f1f1f1, second test block pepepe, test S key X, test SH key M
+	1b-002: 2x Exposure, SH-bias f1f1f1, SS-bias pepepe, first test block pepepe, second test block f1f1f1, test S key X, test SH key M
+	1b-003: 2x Exposure, SH-bias pepepe, SS-bias f1f1f1, first test block f1f1f1, second test block pepepe, test S key X, test SH key M
+	1b-004: 2x Exposure, SH-bias pepepe, SS-bias f1f1f1, first test block pepepe, second test block f1f1f1, test S key X, test SH key M
+	1b-005: 2x Exposure, SH-bias f1f1f1, SS-bias pepepe, first test block f1f1f1, second test block pepepe, test S key M, test SH key S
+	1b-006: 2x Exposure, SH-bias f1f1f1, SS-bias pepepe, first test block pepepe, second test block f1f1f1, test S key M, test SH key S
+	1b-007: 2x Exposure, SH-bias pepepe, SS-bias f1f1f1, first test block f1f1f1, second test block pepepe, test S key M, test SH key S
+	1b-008: 2x Exposure, SH-bias pepepe, SS-bias f1f1f1, first test block pepepe, second test block f1f1f1, test S key M, test SH key S
 
 E2ː Interleaved test (otherwise E1).
+2 Biases x 2 block orders x 2 exposure doses = 8 total lists
+HERE ON DOWN NEEDS KEY BINDINGS
 2a: 1x Exposure
 	2a-001: 1x Exposure, SH-bias f1f1f1, SS-bias pepepe
 	2a-002: 1x Exposure, SH-bias pepepe, SS-bias f1f1f1
