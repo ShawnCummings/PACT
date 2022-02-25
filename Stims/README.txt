@@ -40,4 +40,14 @@ Praat-Concatenate-Script.praat used to recombine segments and create 5 lists bas
 
 NOTE: f1f1f1, shshsh, and pepepe are theoretically redundant, as they are reconcatenations of the same segments as chopped in 03-Chopped.
 
+# 07-Converted_to_.mp3
+
+Converted all stims from .wav to .mp3 (except shshsh, which is never needed)
+
+using ffmpeg -i *stim*.wav *stim*.mp3
+
+# 08-Fillers_.mp3
+
+Selected filler words converted to .mp3
+
 

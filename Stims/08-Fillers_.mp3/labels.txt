@@ -1,0 +1,7 @@
+f1_FW_14_domineering.mp3
+f1_FW_18_grammatical.mp3
+f1_FW_36_melancholy.mp3
+labels.txt
+pe_FW_04_armadillo.mp3
+pe_FW_20_hamburger.mp3
+pe_FW_56_umbrella.mp3
