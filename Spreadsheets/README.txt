@@ -2,7 +2,9 @@ PACT
 E1ː Exact replication of LMM21, with interleaved exposure and blocked test.
 2 Biases x 2 block orders x 2 test key bindings x 2 exposure doses = 16 total lists
 1a: 1x Exposure
-	1a-001: 1x Exposure, SH-bias f1f1f1, SS-bias pepepe, first test block f1f1f1, second test block pepepe, test S key X, test SH key M
+	1a-001: dose = 1x, bias.Joanne = SH, test.1 = f1f1f1, test.Button1 = ASI
+
+	1a-001: 1x Exposure, SH-bias f1f1f1, SS-bias pepepe, first test block f1f1f1, second test block pepepe, 
 	1a-002: 1x Exposure, SH-bias f1f1f1, SS-bias pepepe, first test block pepepe, second test block f1f1f1, test S key X, test SH key M
 	1a-003: 1x Exposure, SH-bias pepepe, SS-bias f1f1f1, first test block f1f1f1, second test block pepepe, test S key X, test SH key M
 	1a-004: 1x Exposure, SH-bias pepepe, SS-bias f1f1f1, first test block pepepe, second test block f1f1f1, test S key X, test SH key M

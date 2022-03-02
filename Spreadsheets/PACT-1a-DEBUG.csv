@@ -1,0 +1,16 @@
+﻿randomise_trials,display,phase,block,audio,type,fricative,step,percent.SS,talker,familiarization.Name,exposure.Progress,test.Progress1,test.Progress2,dose,bias.Joanne,test.Type,test.Button1,test.Button2
+,Instructions-Familiarization,,,,,,,,,,,,,1x,SH,Blocked,ASI,ASHI
+1,Task-Familiarization,Practice,1,f1_FW_14_domineering.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI
+1,Task-Familiarization,Practice,1,pe_FW_20_hamburger.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI
+,Instructions-Exposure,,,,,,,,,,,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_01_Arkansas.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_01_ambition.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_01_ambition.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_01_Arkansas.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+,Instructions-Test_1,,,,,,,,,,,,,1x,SH,Blocked,ASI,ASHI
+3,Task-Test_1,Test_1,1,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+3,Task-Test_1,Test_1,1,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+,Instructions-Test_2,,,,,,,,,,,,,1x,SH,Blocked,ASI,ASHI
+13,Task-Test_2,Test_2,1,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+13,Task-Test_2,Test_2,1,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+,Fin,,,,,,,,,,,,,1x,SH,Blocked,ASI,ASHI

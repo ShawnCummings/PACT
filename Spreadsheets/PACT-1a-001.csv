@@ -1,232 +1,236 @@
-﻿randomise_trials,display,Phase,Block,Trial,Audio,Type,Fricative,Step,Percent.SS,Talker,Talker_Construction,Progress1,Progress2,Progress3,Dose,Bias.Joanne,Test,Name,X.Keybind,M.Keybind
-,Instructions-Familiarization,,,,,,,,,,,,,,,,,,,
-1,Task-Familiarization,Practice,1,1,f1_FW_14_domineering.mp3,Filler,,,,Joanne,f1f1f1,,,,1x,SH,Blocked,# Joanne,,
-1,Task-Familiarization,Practice,1,2,f1_FW_18_grammatical.mp3,Filler,,,,Joanne,f1f1f1,,,,1x,SH,Blocked,# Joanne,,
-1,Task-Familiarization,Practice,1,3,f1_FW_36_melancholy.mp3,Filler,,,,Joanne,f1f1f1,,,,1x,SH,Blocked,# Joanne,,
-1,Task-Familiarization,Practice,1,4,pe_FW_04_armadillo.mp3,Filler,,,,Peter,pepepe,,,,1x,SH,Blocked,# Peter,,
-1,Task-Familiarization,Practice,1,5,pe_FW_20_hamburger.mp3,Filler,,,,Peter,pepepe,,,,1x,SH,Blocked,# Peter,,
-1,Task-Familiarization,Practice,1,6,pe_FW_56_umbrella.mp3,Filler,,,,Peter,pepepe,,,,1x,SH,Blocked,# Peter,,
-,Instructions-Exposure,,,,,,,,,,,,,,,,,,,
-2,Task-Exposure,Exposure,1,1,f1f1f1_s_01_Arkansas.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,2,f1f1f1_s_02_coliseum.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,3,f1f1f1_s_03_compensate.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,4,f1f1f1_s_04_democracy.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,5,f1f1f1_s_05_dinosaur.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,6,f1f1f1_s_06_embassy.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,7,f1f1f1_s_07_episode.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,8,f1f1f1_s_08_eraser.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,9,f1f1f1_s_09_hallucinate.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,10,f1f1f1_s_10_legacy.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,11,f1f1f1_s_11_literacy.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,12,f1f1f1_s_12_medicine.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,13,f1f1f1_s_13_obscene.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,14,f1f1f1_s_14_parasite.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,15,f1f1f1_s_15_peninsula.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,16,f1f1f1_s_16_personal.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,17,f1f1f1_s_17_pregnancy.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,18,f1f1f1_s_18_reconcile.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,19,f1f1f1_s_19_rehearsal.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,20,f1f1f1_s_20_Tennessee.mp3,Clear,SS,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,21,f1f1f1_Xsh_01_ambition.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,22,f1f1f1_Xsh_02_beneficial.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,23,f1f1f1_Xsh_03_brochure.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,24,f1f1f1_Xsh_04_commercial.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,25,f1f1f1_Xsh_05_crucial.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,26,f1f1f1_Xsh_06_efficient.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,27,f1f1f1_Xsh_07_flourishing.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,28,f1f1f1_Xsh_08_glacier.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,29,f1f1f1_Xsh_09_graduation.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,30,f1f1f1_Xsh_10_impatient.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,31,f1f1f1_Xsh_11_initial.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,32,f1f1f1_Xsh_12_machinery.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,33,f1f1f1_Xsh_13_negotiate.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,34,f1f1f1_Xsh_14_official.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,35,f1f1f1_Xsh_15_parachute.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,36,f1f1f1_Xsh_16_pediatrician.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,37,f1f1f1_Xsh_17_publisher.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,38,f1f1f1_Xsh_18_reassure.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,39,f1f1f1_Xsh_19_refreshing.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,40,f1f1f1_Xsh_20_vacation.mp3,Ambiguous,SH,,,Joanne,f1f1f1,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,41,pepepe_sh_01_ambition.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,42,pepepe_sh_02_beneficial.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,43,pepepe_sh_03_brochure.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,44,pepepe_sh_04_commercial.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,45,pepepe_sh_05_crucial.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,46,pepepe_sh_06_efficient.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,47,pepepe_sh_07_flourishing.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,48,pepepe_sh_08_glacier.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,49,pepepe_sh_09_graduation.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,50,pepepe_sh_10_impatient.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,51,pepepe_sh_11_initial.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,52,pepepe_sh_12_machinery.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,53,pepepe_sh_13_negotiate.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,54,pepepe_sh_14_official.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,55,pepepe_sh_15_parachute.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,56,pepepe_sh_16_pediatrician.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,57,pepepe_sh_17_publisher.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,58,pepepe_sh_18_reassure.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,59,pepepe_sh_19_refreshing.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,60,pepepe_sh_20_vacation.mp3,Clear,SH,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,61,pepepe_Xs_01_Arkansas.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,62,pepepe_Xs_02_coliseum.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,63,pepepe_Xs_03_compensate.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,64,pepepe_Xs_04_democracy.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,65,pepepe_Xs_05_dinosaur.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,66,pepepe_Xs_06_embassy.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,67,pepepe_Xs_07_episode.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,68,pepepe_Xs_08_eraser.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,69,pepepe_Xs_09_hallucinate.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,70,pepepe_Xs_10_legacy.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,71,pepepe_Xs_11_literacy.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,72,pepepe_Xs_12_medicine.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,73,pepepe_Xs_13_obscene.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,74,pepepe_Xs_14_parasite.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,75,pepepe_Xs_15_peninsula.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,76,pepepe_Xs_16_personal.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,77,pepepe_Xs_17_pregnancy.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,78,pepepe_Xs_18_reconcile.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,79,pepepe_Xs_19_rehearsal.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-2,Task-Exposure,Exposure,1,80,pepepe_Xs_20_Tennessee.mp3,Ambiguous,SS,,,Peter,pepepe,1,,,1x,SH,Blocked,,,
-,Instructions-Test_1,,,,,,,,,,,,,,,,,,,
-3,Task-Test_1,Test_1,1,1,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-3,Task-Test_1,Test_1,1,2,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-3,Task-Test_1,Test_1,1,3,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-3,Task-Test_1,Test_1,1,4,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-3,Task-Test_1,Test_1,1,5,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-3,Task-Test_1,Test_1,1,6,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-3,Task-Test_1,Test_1,1,7,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-4,Task-Test_1,Test_1,2,8,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-4,Task-Test_1,Test_1,2,9,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-4,Task-Test_1,Test_1,2,10,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-4,Task-Test_1,Test_1,2,11,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-4,Task-Test_1,Test_1,2,12,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-4,Task-Test_1,Test_1,2,13,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-4,Task-Test_1,Test_1,2,14,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-5,Task-Test_1,Test_1,3,15,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-5,Task-Test_1,Test_1,3,16,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-5,Task-Test_1,Test_1,3,17,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-5,Task-Test_1,Test_1,3,18,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-5,Task-Test_1,Test_1,3,19,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-5,Task-Test_1,Test_1,3,20,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-5,Task-Test_1,Test_1,3,21,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-6,Task-Test_1,Test_1,4,22,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-6,Task-Test_1,Test_1,4,23,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-6,Task-Test_1,Test_1,4,24,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-6,Task-Test_1,Test_1,4,25,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-6,Task-Test_1,Test_1,4,26,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-6,Task-Test_1,Test_1,4,27,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-6,Task-Test_1,Test_1,4,28,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-7,Task-Test_1,Test_1,5,29,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-7,Task-Test_1,Test_1,5,30,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-7,Task-Test_1,Test_1,5,31,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-7,Task-Test_1,Test_1,5,32,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-7,Task-Test_1,Test_1,5,33,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-7,Task-Test_1,Test_1,5,34,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-7,Task-Test_1,Test_1,5,35,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-8,Task-Test_1,Test_1,6,36,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-8,Task-Test_1,Test_1,6,37,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-8,Task-Test_1,Test_1,6,38,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-8,Task-Test_1,Test_1,6,39,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-8,Task-Test_1,Test_1,6,40,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-8,Task-Test_1,Test_1,6,41,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-8,Task-Test_1,Test_1,6,42,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-9,Task-Test_1,Test_1,7,43,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-9,Task-Test_1,Test_1,7,44,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-9,Task-Test_1,Test_1,7,45,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-9,Task-Test_1,Test_1,7,46,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-9,Task-Test_1,Test_1,7,47,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-9,Task-Test_1,Test_1,7,48,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-9,Task-Test_1,Test_1,7,49,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-10,Task-Test_1,Test_1,8,50,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-10,Task-Test_1,Test_1,8,51,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-10,Task-Test_1,Test_1,8,52,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-10,Task-Test_1,Test_1,8,53,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-10,Task-Test_1,Test_1,8,54,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-10,Task-Test_1,Test_1,8,55,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-10,Task-Test_1,Test_1,8,56,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-11,Task-Test_1,Test_1,9,57,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-11,Task-Test_1,Test_1,9,58,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-11,Task-Test_1,Test_1,9,59,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-11,Task-Test_1,Test_1,9,60,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-11,Task-Test_1,Test_1,9,61,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-11,Task-Test_1,Test_1,9,62,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-11,Task-Test_1,Test_1,9,63,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-12,Task-Test_1,Test_1,10,64,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-12,Task-Test_1,Test_1,10,65,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-12,Task-Test_1,Test_1,10,66,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-12,Task-Test_1,Test_1,10,67,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-12,Task-Test_1,Test_1,10,68,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-12,Task-Test_1,Test_1,10,69,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-12,Task-Test_1,Test_1,10,70,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,f1f1f1,,1,,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-,Instructions-Test_2,,,,,,,,,,,,,,,,,,,
-13,Task-Test_2,Test_2,1,1,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-13,Task-Test_2,Test_2,1,2,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-13,Task-Test_2,Test_2,1,3,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-13,Task-Test_2,Test_2,1,4,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-13,Task-Test_2,Test_2,1,5,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-13,Task-Test_2,Test_2,1,6,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-13,Task-Test_2,Test_2,1,7,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-14,Task-Test_2,Test_2,2,8,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-14,Task-Test_2,Test_2,2,9,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-14,Task-Test_2,Test_2,2,10,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-14,Task-Test_2,Test_2,2,11,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-14,Task-Test_2,Test_2,2,12,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-14,Task-Test_2,Test_2,2,13,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-14,Task-Test_2,Test_2,2,14,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-15,Task-Test_2,Test_2,3,15,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-15,Task-Test_2,Test_2,3,16,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-15,Task-Test_2,Test_2,3,17,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-15,Task-Test_2,Test_2,3,18,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-15,Task-Test_2,Test_2,3,19,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-15,Task-Test_2,Test_2,3,20,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-15,Task-Test_2,Test_2,3,21,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-16,Task-Test_2,Test_2,4,22,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-16,Task-Test_2,Test_2,4,23,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-16,Task-Test_2,Test_2,4,24,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-16,Task-Test_2,Test_2,4,25,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-16,Task-Test_2,Test_2,4,26,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-16,Task-Test_2,Test_2,4,27,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-16,Task-Test_2,Test_2,4,28,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-17,Task-Test_2,Test_2,5,29,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-17,Task-Test_2,Test_2,5,30,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-17,Task-Test_2,Test_2,5,31,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-17,Task-Test_2,Test_2,5,32,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-17,Task-Test_2,Test_2,5,33,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-17,Task-Test_2,Test_2,5,34,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-17,Task-Test_2,Test_2,5,35,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-18,Task-Test_2,Test_2,6,36,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-18,Task-Test_2,Test_2,6,37,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-18,Task-Test_2,Test_2,6,38,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-18,Task-Test_2,Test_2,6,39,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-18,Task-Test_2,Test_2,6,40,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-18,Task-Test_2,Test_2,6,41,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-18,Task-Test_2,Test_2,6,42,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-19,Task-Test_2,Test_2,7,43,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-19,Task-Test_2,Test_2,7,44,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-19,Task-Test_2,Test_2,7,45,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-19,Task-Test_2,Test_2,7,46,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-19,Task-Test_2,Test_2,7,47,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-19,Task-Test_2,Test_2,7,48,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-19,Task-Test_2,Test_2,7,49,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-20,Task-Test_2,Test_2,8,50,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-20,Task-Test_2,Test_2,8,51,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-20,Task-Test_2,Test_2,8,52,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-20,Task-Test_2,Test_2,8,53,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-20,Task-Test_2,Test_2,8,54,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-20,Task-Test_2,Test_2,8,55,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-20,Task-Test_2,Test_2,8,56,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-21,Task-Test_2,Test_2,9,57,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-21,Task-Test_2,Test_2,9,58,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-21,Task-Test_2,Test_2,9,59,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-21,Task-Test_2,Test_2,9,60,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-21,Task-Test_2,Test_2,9,61,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-21,Task-Test_2,Test_2,9,62,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-21,Task-Test_2,Test_2,9,63,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-22,Task-Test_2,Test_2,10,64,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-22,Task-Test_2,Test_2,10,65,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-22,Task-Test_2,Test_2,10,66,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-22,Task-Test_2,Test_2,10,67,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-22,Task-Test_2,Test_2,10,68,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-22,Task-Test_2,Test_2,10,69,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-22,Task-Test_2,Test_2,10,70,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,pepepe,,,1,1x,SH,Blocked,,"# Press X for ""asi""","# Press M for ""ashi"""
-,Fin,,,,,,,,,,,,,,,,,,,
+﻿randomise_trials,display,phase,block,audio,type,fricative,step,percent.SS,talker,familiarization.Name,exposure.Progress,test.Progress1,test.Progress2,dose,bias.Joanne,test.Type,test.Button1,test.Button2
+,Instructions-Familiarization,,,,,,,,,,,,,1x,SH,Blocked,ASI,ASHI
+1,Task-Familiarization,Practice,1,f1_FW_14_domineering.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI
+1,Task-Familiarization,Practice,1,f1_FW_18_grammatical.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI
+1,Task-Familiarization,Practice,1,f1_FW_36_melancholy.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI
+1,Task-Familiarization,Practice,1,f1_FW_04_armadillo.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI
+1,Task-Familiarization,Practice,1,f1_FW_20_hamburger.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI
+1,Task-Familiarization,Practice,1,pe_FW_14_domineering.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI
+1,Task-Familiarization,Practice,1,pe_FW_18_grammatical.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI
+1,Task-Familiarization,Practice,1,pe_FW_36_melancholy.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI
+1,Task-Familiarization,Practice,1,pe_FW_04_armadillo.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI
+1,Task-Familiarization,Practice,1,pe_FW_20_hamburger.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI
+,Instructions-Exposure,,,,,,,,,,,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_01_Arkansas.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_02_coliseum.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_03_compensate.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_04_democracy.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_05_dinosaur.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_06_embassy.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_07_episode.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_08_eraser.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_09_hallucinate.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_10_legacy.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_11_literacy.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_12_medicine.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_13_obscene.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_14_parasite.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_15_peninsula.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_16_personal.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_17_pregnancy.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_18_reconcile.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_19_rehearsal.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_s_20_Tennessee.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_01_ambition.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_02_beneficial.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_03_brochure.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_04_commercial.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_05_crucial.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_06_efficient.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_07_flourishing.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_08_glacier.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_09_graduation.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_10_impatient.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_11_initial.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_12_machinery.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_13_negotiate.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_14_official.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_15_parachute.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_16_pediatrician.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_17_publisher.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_18_reassure.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_19_refreshing.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,f1f1f1_Xsh_20_vacation.mp3,Ambiguous,SH,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_01_ambition.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_02_beneficial.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_03_brochure.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_04_commercial.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_05_crucial.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_06_efficient.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_07_flourishing.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_08_glacier.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_09_graduation.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_10_impatient.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_11_initial.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_12_machinery.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_13_negotiate.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_14_official.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_15_parachute.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_16_pediatrician.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_17_publisher.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_18_reassure.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_19_refreshing.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_sh_20_vacation.mp3,Clear,SH,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_01_Arkansas.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_02_coliseum.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_03_compensate.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_04_democracy.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_05_dinosaur.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_06_embassy.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_07_episode.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_08_eraser.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_09_hallucinate.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_10_legacy.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_11_literacy.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_12_medicine.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_13_obscene.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_14_parasite.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_15_peninsula.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_16_personal.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_17_pregnancy.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_18_reconcile.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_19_rehearsal.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+2,Task-Exposure,Exposure,1,pepepe_Xs_20_Tennessee.mp3,Ambiguous,SS,,,Peter,,1,,,1x,SH,Blocked,ASI,ASHI
+,Instructions-Test_1,,,,,,,,,,,,,1x,SH,Blocked,ASI,ASHI
+3,Task-Test_1,Test_1,1,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+3,Task-Test_1,Test_1,1,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+3,Task-Test_1,Test_1,1,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+3,Task-Test_1,Test_1,1,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+3,Task-Test_1,Test_1,1,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+3,Task-Test_1,Test_1,1,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+3,Task-Test_1,Test_1,1,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+4,Task-Test_1,Test_1,2,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+4,Task-Test_1,Test_1,2,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+4,Task-Test_1,Test_1,2,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+4,Task-Test_1,Test_1,2,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+4,Task-Test_1,Test_1,2,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+4,Task-Test_1,Test_1,2,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+4,Task-Test_1,Test_1,2,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+5,Task-Test_1,Test_1,3,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+5,Task-Test_1,Test_1,3,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+5,Task-Test_1,Test_1,3,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+5,Task-Test_1,Test_1,3,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+5,Task-Test_1,Test_1,3,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+5,Task-Test_1,Test_1,3,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+5,Task-Test_1,Test_1,3,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+6,Task-Test_1,Test_1,4,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+6,Task-Test_1,Test_1,4,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+6,Task-Test_1,Test_1,4,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+6,Task-Test_1,Test_1,4,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+6,Task-Test_1,Test_1,4,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+6,Task-Test_1,Test_1,4,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+6,Task-Test_1,Test_1,4,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+7,Task-Test_1,Test_1,5,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+7,Task-Test_1,Test_1,5,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+7,Task-Test_1,Test_1,5,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+7,Task-Test_1,Test_1,5,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+7,Task-Test_1,Test_1,5,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+7,Task-Test_1,Test_1,5,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+7,Task-Test_1,Test_1,5,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+8,Task-Test_1,Test_1,6,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+8,Task-Test_1,Test_1,6,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+8,Task-Test_1,Test_1,6,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+8,Task-Test_1,Test_1,6,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+8,Task-Test_1,Test_1,6,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+8,Task-Test_1,Test_1,6,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+8,Task-Test_1,Test_1,6,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+9,Task-Test_1,Test_1,7,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+9,Task-Test_1,Test_1,7,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+9,Task-Test_1,Test_1,7,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+9,Task-Test_1,Test_1,7,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+9,Task-Test_1,Test_1,7,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+9,Task-Test_1,Test_1,7,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+9,Task-Test_1,Test_1,7,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+10,Task-Test_1,Test_1,8,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+10,Task-Test_1,Test_1,8,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+10,Task-Test_1,Test_1,8,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+10,Task-Test_1,Test_1,8,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+10,Task-Test_1,Test_1,8,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+10,Task-Test_1,Test_1,8,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+10,Task-Test_1,Test_1,8,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+11,Task-Test_1,Test_1,9,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+11,Task-Test_1,Test_1,9,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+11,Task-Test_1,Test_1,9,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+11,Task-Test_1,Test_1,9,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+11,Task-Test_1,Test_1,9,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+11,Task-Test_1,Test_1,9,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+11,Task-Test_1,Test_1,9,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+12,Task-Test_1,Test_1,10,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+12,Task-Test_1,Test_1,10,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+12,Task-Test_1,Test_1,10,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+12,Task-Test_1,Test_1,10,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+12,Task-Test_1,Test_1,10,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+12,Task-Test_1,Test_1,10,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+12,Task-Test_1,Test_1,10,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI
+,Instructions-Test_2,,,,,,,,,,,,,1x,SH,Blocked,ASI,ASHI
+13,Task-Test_2,Test_2,1,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+13,Task-Test_2,Test_2,1,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+13,Task-Test_2,Test_2,1,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+13,Task-Test_2,Test_2,1,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+13,Task-Test_2,Test_2,1,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+13,Task-Test_2,Test_2,1,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+13,Task-Test_2,Test_2,1,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+14,Task-Test_2,Test_2,2,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+14,Task-Test_2,Test_2,2,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+14,Task-Test_2,Test_2,2,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+14,Task-Test_2,Test_2,2,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+14,Task-Test_2,Test_2,2,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+14,Task-Test_2,Test_2,2,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+14,Task-Test_2,Test_2,2,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+15,Task-Test_2,Test_2,3,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+15,Task-Test_2,Test_2,3,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+15,Task-Test_2,Test_2,3,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+15,Task-Test_2,Test_2,3,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+15,Task-Test_2,Test_2,3,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+15,Task-Test_2,Test_2,3,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+15,Task-Test_2,Test_2,3,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+16,Task-Test_2,Test_2,4,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+16,Task-Test_2,Test_2,4,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+16,Task-Test_2,Test_2,4,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+16,Task-Test_2,Test_2,4,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+16,Task-Test_2,Test_2,4,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+16,Task-Test_2,Test_2,4,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+16,Task-Test_2,Test_2,4,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+17,Task-Test_2,Test_2,5,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+17,Task-Test_2,Test_2,5,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+17,Task-Test_2,Test_2,5,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+17,Task-Test_2,Test_2,5,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+17,Task-Test_2,Test_2,5,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+17,Task-Test_2,Test_2,5,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+17,Task-Test_2,Test_2,5,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+18,Task-Test_2,Test_2,6,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+18,Task-Test_2,Test_2,6,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+18,Task-Test_2,Test_2,6,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+18,Task-Test_2,Test_2,6,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+18,Task-Test_2,Test_2,6,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+18,Task-Test_2,Test_2,6,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+18,Task-Test_2,Test_2,6,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+19,Task-Test_2,Test_2,7,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+19,Task-Test_2,Test_2,7,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+19,Task-Test_2,Test_2,7,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+19,Task-Test_2,Test_2,7,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+19,Task-Test_2,Test_2,7,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+19,Task-Test_2,Test_2,7,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+19,Task-Test_2,Test_2,7,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+20,Task-Test_2,Test_2,8,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+20,Task-Test_2,Test_2,8,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+20,Task-Test_2,Test_2,8,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+20,Task-Test_2,Test_2,8,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+20,Task-Test_2,Test_2,8,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+20,Task-Test_2,Test_2,8,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+20,Task-Test_2,Test_2,8,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+21,Task-Test_2,Test_2,9,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+21,Task-Test_2,Test_2,9,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+21,Task-Test_2,Test_2,9,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+21,Task-Test_2,Test_2,9,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+21,Task-Test_2,Test_2,9,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+21,Task-Test_2,Test_2,9,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+21,Task-Test_2,Test_2,9,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+22,Task-Test_2,Test_2,10,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+22,Task-Test_2,Test_2,10,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+22,Task-Test_2,Test_2,10,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+22,Task-Test_2,Test_2,10,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+22,Task-Test_2,Test_2,10,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+22,Task-Test_2,Test_2,10,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+22,Task-Test_2,Test_2,10,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI
+,Fin,,,,,,,,,,,,,1x,SH,Blocked,ASI,ASHI
