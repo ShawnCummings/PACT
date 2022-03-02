@@ -1,0 +1,121 @@
+---
+title: "PACT Experiment 1A"
+author: "Shawn Cummings and Rachel Theodore"
+date: /today
+output:
+  word_document: default
+  html_document:
+    df_print: paged
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r libraries, echo=FALSE, include=FALSE}
+library(tidyverse)
+library(Rmisc)
+library(cowplot)
+library(dplyr)
+library(stringr) 
+library(magrittr) #2-sided pipes (%<>%)
+```
+
+## Data import and counter-balance check
+
+First, we import all spreadsheets for all conditions intended to be run. We add the condition variable to each, for identifiability once they are joined.
+
+For each spreadsheet, we additionally check against our counterbalancing variables for that experiment and condition. 
+
+```{r}
+d.001 <- read.csv("../Spreadsheets/PACT-1a-001.csv", na.strings=c("", " ", "NA")) %>%
+  mutate(condition = "1a-001")
+unique(d.001$dose) #check that Dose, Test, Bias.Joanne, and Button1 are all correct
+
+#d.002 <- read.csv(")
+
+
+conditions <- c("001", "002", "003", "004", "005", "006", "007", "008")
+dose <- c("1x")
+test.Type <- c("Blocked")
+test.Button1 <- c("# ASI", "# ASI", "# ASI", "# ASI", "# ASHI", "# ASHI", "# ASHI", "# ASHI")
+bias.Joanne <- c("SH", "SH", "SS", "SS", "SH", "SH", "SS", "SS")
+first.Test.Block <- c("Peter", "Joanne", "Peter", "Joanne", "Peter", "Joanne", "Peter", "Joanne")
+
+d.counterbalances <- data.frame(conditions, dose, test.Type, test.Button1, bias.Joanne, first.Test.Block)
+
+
+
+
+#d <- rbind(d.001, d.002, etc.)
+d <- d.001
+
+
+exposure.Trials <- d %>%
+  filter(phase == "Exposure") %>%
+  nrow()
+
+test.Trials <- d %>%
+  filter(phase == "Test") %>%
+  nrow()
+
+exposure.Trials
+
+```
+## Additional columns of interest
+
+Using a parse of audio file used, we generate a number of columns informative towards condition. These *should* be redundant with hard-coded columns from the spreadsheet, but are included as a check against anything being awry.
+```{r}
+d %<>%
+  separate(
+    audio, c("audio.Construction", "audio.WordType", "audio.number", "audio.word"), sep = "_", remove=FALSE) %>%
+  mutate(
+    bias =
+      case_when(
+        fricative == "SS" & type == "Clear" ~ "SH",
+        fricative == "SH" & type == "Ambiguous" ~ "SH",
+        fricative == "SS" & type == "Ambiguous" ~ "SS",
+        fricative == "SH" & type == "Clear" ~ "SS",
+        T ~ NA_character_),
+    type.Coded =
+      case_when(
+        substr(audio.WordType, 1, 1) == "X" ~ "Ambiguous",
+        substr(audio.WordType, 1, 1) == "s" ~ "Clear",
+        audio.WordType == "Test" ~ "Test",
+        audio.WordType == "FW" ~ "Filler",
+        T ~ NA_character_),
+    fricative.Coded = 
+      case_when(
+        audio.WordType %in% c("Xsh", "sh") ~ "SH",
+        audio.WordType %in% c("Xs", "s") ~ "SS",
+        T ~ NA_character_),
+    talker.Coded = 
+      case_when(
+        substr(audio.Construction, 1, 2) == "f1" ~ "Joanne",
+        substr(audio.Construction, 1, 2) == "pe" ~ "Peter",
+        T ~ NA_character_))
+```
+### Check for mismatches
+
+Return any rows where the autocoded versus manually entered values for type, talker, or fricative don't match. This *should* return 0 rows.
+```{r}
+d %>%
+  mutate(coding.Mismatch =
+           case_when(
+             is.na(audio) ~ F,
+             type == type.Coded &
+               talker == talker.Coded &
+               (fricative == fricative.Coded |
+                  (is.na(fricative) &
+                      is.na(fricative.Coded))) ~ F,
+             T ~ T)) %>%
+  filter(coding.Mismatch == T) %>%
+  select(condition, audio,
+         type, type.Coded,
+         talker, talker.Coded,
+         fricative,fricative.Coded,
+         coding.Mismatch) 
+```
+
+
