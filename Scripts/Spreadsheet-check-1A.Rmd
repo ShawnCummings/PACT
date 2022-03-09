@@ -16,7 +16,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```{r libraries, echo=FALSE, include=FALSE}
 library(tidyverse)
 library(Rmisc)
-library(cowplot)
 library(dplyr)
 library(stringr) 
 library(magrittr) #2-sided pipes (%<>%)
@@ -36,14 +35,14 @@ unique(d.001$dose) #check that Dose, Test, Bias.Joanne, and Button1 are all corr
 #d.002 <- read.csv(")
 
 
-conditions <- c("001", "002", "003", "004", "005", "006", "007", "008")
-dose <- c("1x")
-test.Type <- c("Blocked")
-test.Button1 <- c("# ASI", "# ASI", "# ASI", "# ASI", "# ASHI", "# ASHI", "# ASHI", "# ASHI")
-bias.Joanne <- c("SH", "SH", "SS", "SS", "SH", "SH", "SS", "SS")
-first.Test.Block <- c("Peter", "Joanne", "Peter", "Joanne", "Peter", "Joanne", "Peter", "Joanne")
-
-d.counterbalances <- data.frame(conditions, dose, test.Type, test.Button1, bias.Joanne, first.Test.Block)
+# conditions <- c("001", "002", "003", "004", "005", "006", "007", "008")
+# dose <- c("1x")
+# test.Type <- c("Blocked")
+# test.Button1 <- c("# ASI", "# ASI", "# ASI", "# ASI", "# ASHI", "# ASHI", "# ASHI", "# ASHI")
+# bias.Joanne <- c("SH", "SH", "SS", "SS", "SH", "SH", "SS", "SS")
+# first.Test.Block <- c("Peter", "Joanne", "Peter", "Joanne", "Peter", "Joanne", "Peter", "Joanne")
+# 
+# d.counterbalances <- data.frame(conditions, dose, test.Type, test.Button1, bias.Joanne, first.Test.Block)
 
 
 
@@ -57,7 +56,7 @@ exposure.Trials <- d %>%
   nrow()
 
 test.Trials <- d %>%
-  filter(phase == "Test") %>%
+  filter(phase == "Test") %>% #works differently for blocked versus mixed test
   nrow()
 
 exposure.Trials
