@@ -23,14 +23,26 @@ library(magrittr) #2-sided pipes (%<>%)
 
 ## Data import and counter-balance check
 
-First, we import all spreadsheets for all conditions intended to be run. We add the condition variable to each, for identifiability once they are joined.
-
+First, we import all spreadsheets for all conditions intended to be run.
 For each spreadsheet, we additionally check against our counterbalancing variables for that experiment and condition. 
 
 ```{r}
-d.001 <- read.csv("../Spreadsheets/PACT-1a-001.csv", na.strings=c("", " ", "NA")) %>%
-  mutate(condition = "1a-001")
-unique(d.001$dose) #check that Dose, Test, Bias.Joanne, and Button1 are all correct
+setwd("../Spreadsheets/")
+spreadsheet.List <- list.files(pattern = "*.csv")
+for (i in 1:length(spreadsheet.List))
+  assign(spreadsheet.List[i],
+         read.csv(spreadsheet.List[i], na.strings = c("", " ", "NA")))
+
+d <- rbind(`PACT-1a-001.csv`,
+           `PACT-1a-002.csv`,
+           `PACT-1a-003.csv`,
+           `PACT-1a-004.csv`,
+           `PACT-1a-005.csv`,
+           `PACT-1a-006.csv`,
+           `PACT-1a-007.csv`,
+           `PACT-1a-008.csv`)
+
+unique(d$dose) #check that Dose, Test, Bias.Joanne, and Button1 are all correct
 
 #d.002 <- read.csv(")
 
