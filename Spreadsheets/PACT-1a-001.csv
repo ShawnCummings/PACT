@@ -1,15 +1,15 @@
 ﻿randomise_trials,display,phase,block,audio,type,fricative,step,percent.SS,talker,familiarization.Name,exposure.Progress,test.Progress1,test.Progress2,dose,bias.Joanne,test.Type,test.Button1,test.Button2,spreadsheet
 ,Instructions-Familiarization,,,,,,,,,,,,,1x,SH,Blocked,ASI,ASHI,1a-001
-1,Task-Familiarization,Practice,1,f1_FW_14_domineering.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI,1a-001
-1,Task-Familiarization,Practice,1,f1_FW_18_grammatical.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI,1a-001
-1,Task-Familiarization,Practice,1,f1_FW_36_melancholy.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI,1a-001
-1,Task-Familiarization,Practice,1,f1_FW_04_armadillo.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI,1a-001
-1,Task-Familiarization,Practice,1,f1_FW_20_hamburger.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI,1a-001
-1,Task-Familiarization,Practice,1,pe_FW_14_domineering.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI,1a-001
-1,Task-Familiarization,Practice,1,pe_FW_18_grammatical.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI,1a-001
-1,Task-Familiarization,Practice,1,pe_FW_36_melancholy.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI,1a-001
-1,Task-Familiarization,Practice,1,pe_FW_04_armadillo.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI,1a-001
-1,Task-Familiarization,Practice,1,pe_FW_20_hamburger.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI,1a-001
+,Task-Familiarization,Practice,1,f1_FW_14_domineering.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI,1a-001
+,Task-Familiarization,Practice,1,f1_FW_18_grammatical.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI,1a-001
+,Task-Familiarization,Practice,1,f1_FW_36_melancholy.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI,1a-001
+,Task-Familiarization,Practice,1,f1_FW_04_armadillo.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI,1a-001
+,Task-Familiarization,Practice,1,f1_FW_20_hamburger.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SH,Blocked,ASI,ASHI,1a-001
+,Task-Familiarization,Practice,1,pe_FW_14_domineering.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI,1a-001
+,Task-Familiarization,Practice,1,pe_FW_18_grammatical.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI,1a-001
+,Task-Familiarization,Practice,1,pe_FW_36_melancholy.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI,1a-001
+,Task-Familiarization,Practice,1,pe_FW_04_armadillo.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI,1a-001
+,Task-Familiarization,Practice,1,pe_FW_20_hamburger.mp3,Filler,,,,Peter,# Peter,,,,1x,SH,Blocked,ASI,ASHI,1a-001
 ,Instructions-Exposure,,,,,,,,,,,,,1x,SH,Blocked,ASI,ASHI,1a-001
 2,Task-Exposure,Exposure,1,f1f1f1_s_01_Arkansas.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI,1a-001
 2,Task-Exposure,Exposure,1,f1f1f1_s_02_coliseum.mp3,Clear,SS,,,Joanne,,1,,,1x,SH,Blocked,ASI,ASHI,1a-001
@@ -127,41 +127,6 @@
 7,Task-Test_1,Test_1,5,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
 7,Task-Test_1,Test_1,5,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
 7,Task-Test_1,Test_1,5,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-8,Task-Test_1,Test_1,6,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-8,Task-Test_1,Test_1,6,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-8,Task-Test_1,Test_1,6,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-8,Task-Test_1,Test_1,6,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-8,Task-Test_1,Test_1,6,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-8,Task-Test_1,Test_1,6,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-8,Task-Test_1,Test_1,6,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-9,Task-Test_1,Test_1,7,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-9,Task-Test_1,Test_1,7,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-9,Task-Test_1,Test_1,7,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-9,Task-Test_1,Test_1,7,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-9,Task-Test_1,Test_1,7,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-9,Task-Test_1,Test_1,7,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-9,Task-Test_1,Test_1,7,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-10,Task-Test_1,Test_1,8,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-10,Task-Test_1,Test_1,8,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-10,Task-Test_1,Test_1,8,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-10,Task-Test_1,Test_1,8,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-10,Task-Test_1,Test_1,8,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-10,Task-Test_1,Test_1,8,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-10,Task-Test_1,Test_1,8,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-11,Task-Test_1,Test_1,9,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-11,Task-Test_1,Test_1,9,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-11,Task-Test_1,Test_1,9,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-11,Task-Test_1,Test_1,9,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-11,Task-Test_1,Test_1,9,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-11,Task-Test_1,Test_1,9,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-11,Task-Test_1,Test_1,9,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-12,Task-Test_1,Test_1,10,f1f1f1_Test_02_mix1.mp3,Test,,2,80,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-12,Task-Test_1,Test_1,10,f1f1f1_Test_03_mix2.mp3,Test,,3,70,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-12,Task-Test_1,Test_1,10,f1f1f1_Test_04_mix3.mp3,Test,,4,60,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-12,Task-Test_1,Test_1,10,f1f1f1_Test_05_mix4.mp3,Test,,5,50,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-12,Task-Test_1,Test_1,10,f1f1f1_Test_06_mix5.mp3,Test,,6,40,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-12,Task-Test_1,Test_1,10,f1f1f1_Test_07_mix6.mp3,Test,,7,30,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
-12,Task-Test_1,Test_1,10,f1f1f1_Test_08_mix7.mp3,Test,,8,20,Joanne,,,1,,1x,SH,Blocked,ASI,ASHI,1a-001
 ,Instructions-Test_2,,,,,,,,,,,,,1x,SH,Blocked,ASI,ASHI,1a-001
 13,Task-Test_2,Test_2,1,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
 13,Task-Test_2,Test_2,1,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
@@ -198,39 +163,4 @@
 17,Task-Test_2,Test_2,5,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
 17,Task-Test_2,Test_2,5,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
 17,Task-Test_2,Test_2,5,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-18,Task-Test_2,Test_2,6,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-18,Task-Test_2,Test_2,6,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-18,Task-Test_2,Test_2,6,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-18,Task-Test_2,Test_2,6,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-18,Task-Test_2,Test_2,6,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-18,Task-Test_2,Test_2,6,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-18,Task-Test_2,Test_2,6,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-19,Task-Test_2,Test_2,7,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-19,Task-Test_2,Test_2,7,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-19,Task-Test_2,Test_2,7,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-19,Task-Test_2,Test_2,7,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-19,Task-Test_2,Test_2,7,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-19,Task-Test_2,Test_2,7,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-19,Task-Test_2,Test_2,7,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-20,Task-Test_2,Test_2,8,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-20,Task-Test_2,Test_2,8,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-20,Task-Test_2,Test_2,8,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-20,Task-Test_2,Test_2,8,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-20,Task-Test_2,Test_2,8,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-20,Task-Test_2,Test_2,8,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-20,Task-Test_2,Test_2,8,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-21,Task-Test_2,Test_2,9,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-21,Task-Test_2,Test_2,9,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-21,Task-Test_2,Test_2,9,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-21,Task-Test_2,Test_2,9,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-21,Task-Test_2,Test_2,9,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-21,Task-Test_2,Test_2,9,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-21,Task-Test_2,Test_2,9,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-22,Task-Test_2,Test_2,10,pepepe_Test_02_mix1.mp3,Test,,2,80,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-22,Task-Test_2,Test_2,10,pepepe_Test_03_mix2.mp3,Test,,3,70,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-22,Task-Test_2,Test_2,10,pepepe_Test_04_mix3.mp3,Test,,4,60,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-22,Task-Test_2,Test_2,10,pepepe_Test_05_mix4.mp3,Test,,5,50,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-22,Task-Test_2,Test_2,10,pepepe_Test_06_mix5.mp3,Test,,6,40,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-22,Task-Test_2,Test_2,10,pepepe_Test_07_mix6.mp3,Test,,7,30,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
-22,Task-Test_2,Test_2,10,pepepe_Test_08_mix7.mp3,Test,,8,20,Peter,,,,1,1x,SH,Blocked,ASI,ASHI,1a-001
 ,Fin,,,,,,,,,,,,,1x,SH,Blocked,ASI,ASHI,1a-001

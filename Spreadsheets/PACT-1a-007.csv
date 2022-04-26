@@ -1,15 +1,15 @@
 ﻿randomise_trials,display,phase,block,audio,type,fricative,step,percent.SS,talker,familiarization.Name,exposure.Progress,test.Progress1,test.Progress2,dose,bias.Joanne,test.Type,test.Button1,test.Button2,spreadsheet
 ,Instructions-Familiarization,,,,,,,,,,,,,1x,SS,Blocked,ASI,ASHI,1a-007
-1,Task-Familiarization,Practice,1,f1_FW_14_domineering.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SS,Blocked,ASI,ASHI,1a-007
-1,Task-Familiarization,Practice,1,f1_FW_18_grammatical.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SS,Blocked,ASI,ASHI,1a-007
-1,Task-Familiarization,Practice,1,f1_FW_36_melancholy.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SS,Blocked,ASI,ASHI,1a-007
-1,Task-Familiarization,Practice,1,f1_FW_04_armadillo.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SS,Blocked,ASI,ASHI,1a-007
-1,Task-Familiarization,Practice,1,f1_FW_20_hamburger.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SS,Blocked,ASI,ASHI,1a-007
-1,Task-Familiarization,Practice,1,pe_FW_14_domineering.mp3,Filler,,,,Peter,# Peter,,,,1x,SS,Blocked,ASI,ASHI,1a-007
-1,Task-Familiarization,Practice,1,pe_FW_18_grammatical.mp3,Filler,,,,Peter,# Peter,,,,1x,SS,Blocked,ASI,ASHI,1a-007
-1,Task-Familiarization,Practice,1,pe_FW_36_melancholy.mp3,Filler,,,,Peter,# Peter,,,,1x,SS,Blocked,ASI,ASHI,1a-007
-1,Task-Familiarization,Practice,1,pe_FW_04_armadillo.mp3,Filler,,,,Peter,# Peter,,,,1x,SS,Blocked,ASI,ASHI,1a-007
-1,Task-Familiarization,Practice,1,pe_FW_20_hamburger.mp3,Filler,,,,Peter,# Peter,,,,1x,SS,Blocked,ASI,ASHI,1a-007
+,Task-Familiarization,Practice,1,f1_FW_14_domineering.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SS,Blocked,ASI,ASHI,1a-007
+,Task-Familiarization,Practice,1,f1_FW_18_grammatical.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SS,Blocked,ASI,ASHI,1a-007
+,Task-Familiarization,Practice,1,f1_FW_36_melancholy.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SS,Blocked,ASI,ASHI,1a-007
+,Task-Familiarization,Practice,1,f1_FW_04_armadillo.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SS,Blocked,ASI,ASHI,1a-007
+,Task-Familiarization,Practice,1,f1_FW_20_hamburger.mp3,Filler,,,,Joanne,# Joanne,,,,1x,SS,Blocked,ASI,ASHI,1a-007
+,Task-Familiarization,Practice,1,pe_FW_14_domineering.mp3,Filler,,,,Peter,# Peter,,,,1x,SS,Blocked,ASI,ASHI,1a-007
+,Task-Familiarization,Practice,1,pe_FW_18_grammatical.mp3,Filler,,,,Peter,# Peter,,,,1x,SS,Blocked,ASI,ASHI,1a-007
+,Task-Familiarization,Practice,1,pe_FW_36_melancholy.mp3,Filler,,,,Peter,# Peter,,,,1x,SS,Blocked,ASI,ASHI,1a-007
+,Task-Familiarization,Practice,1,pe_FW_04_armadillo.mp3,Filler,,,,Peter,# Peter,,,,1x,SS,Blocked,ASI,ASHI,1a-007
+,Task-Familiarization,Practice,1,pe_FW_20_hamburger.mp3,Filler,,,,Peter,# Peter,,,,1x,SS,Blocked,ASI,ASHI,1a-007
 ,Instructions-Exposure,,,,,,,,,,,,,1x,SS,Blocked,ASI,ASHI,1a-007
 2,Task-Exposure,Exposure,1,pepepe_s_01_Arkansas.mp3,Clear,SS,,,Peter,,1,,,1x,SS,Blocked,ASI,ASHI,1a-007
 2,Task-Exposure,Exposure,1,pepepe_s_02_coliseum.mp3,Clear,SS,,,Peter,,1,,,1x,SS,Blocked,ASI,ASHI,1a-007
